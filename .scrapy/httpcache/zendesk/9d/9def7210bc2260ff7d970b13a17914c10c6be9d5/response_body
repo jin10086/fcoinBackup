@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <!-- v17644 -->
+
+  <title>ZJLT 终极账本 (ZJLT Distributed Factoring Network, ZJLT ) &ndash; 帮助中心</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:7xNYUQMzvmZlJ1e1QfIRE0eJliE7iUYCqMKUbJGlmoe4eEuY5UvaNpYk8n5q/QDq+X4si5dadS9MOOt5HyL/jA==" />
+
+  <meta name="description" content="项目信息 全称：ZJLT Distributed Factoring Network Token简称：ZJLT 白皮书：  http://www.zjlt.io/ZJLT_Distributed_Factoring_Network_v1.0.pdf 官网： ..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/2275060/4bf9c76f5c0ab5f04579e7be70abcfbd077b8498.png" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="帮助中心" />
+<meta property="og:title" content="ZJLT 终极账本 (ZJLT Distributed Factoring Network, ZJLT )" />
+<meta property="og:description" content="项目信息
+全称：ZJLT Distributed Factoring Network
+Token简称：ZJLT
+白皮书：
+ http://www.zjlt.io/ZJLT_Distributed_Factoring_Network_v1.0.pdf
+官网：
+ www.zjlt.io
+区块查询：
+ https://etherscan.io/token/0xBC34985b4d345AeA933..." />
+<meta property="og:url" content="http://fcoin.zendesk.com/hc/zh-cn/articles/360007124913-ZJLT-%E7%BB%88%E6%9E%81%E8%B4%A6%E6%9C%AC-ZJLT-Distributed-Factoring-Network-ZJLT-" />
+<link rel="canonical" href="https://fcoin.zendesk.com/hc/zh-cn/articles/360007124913-ZJLT-%E7%BB%88%E6%9E%81%E8%B4%A6%E6%9C%AC-ZJLT-Distributed-Factoring-Network-ZJLT-" />
+<link rel="alternate" hreflang="en" href="https://fcoin.zendesk.com/hc/en-us/articles/360007124913-ZJLT-Distributed-Factoring-Network-ZJLT-" />
+<link rel="alternate" hreflang="zh" href="https://fcoin.zendesk.com/hc/zh-cn/articles/360007124913-ZJLT-%E7%BB%88%E6%9E%81%E8%B4%A6%E6%9C%AC-ZJLT-Distributed-Factoring-Network-ZJLT-" />
+
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-ebbf4a70487f9466c9be47bf4b6055f6.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-7eacdab8920220a42cfc91404f4ed182.css" />
+  <link rel="stylesheet" type="text/css" href="//p14.zdassets.com/hc/theming_assets/2275060/360000411633/style.css?digest=360053656834" />
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/2275060/0838e96fa9ce2d3bc0ccf47d672646327875c5cb.png" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    
+    
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+
+  <script type="text/javascript" src="//p14.zdassets.com/hc/theming_assets/2275060/360000411633/script.js?digest=360053656834"></script>
+</head>
+<body class="">
+  
+  
+
+  <header class="header">
+  <div class="logo">
+    <!-- <a title="主页" href="/hc/zh-cn"> -->
+    <a href ="https://www.fcoin.com"><img src="//theme.zdassets.com/theme_assets/2275060/4bf9c76f5c0ab5f04579e7be70abcfbd077b8498.png" alt="徽标"></a>
+    <!-- </a> -->
+  </div>
+  <div class="nav-wrapper">
+    <span class="icon-menu"></span>
+    <nav class="user-nav" id="user-nav">
+      
+      <a class="submit-a-request" href="/hc/zh-cn/requests/new">提交请求</a>
+    </nav>
+	  <!-- user login -->
+    <!--   <a class="login" data-auth-action="signin" role="button" rel="nofollow" title="打开对话框" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360007124913-ZJLT-%25E7%25BB%2588%25E6%259E%2581%25E8%25B4%25A6%25E6%259C%25AC-ZJLT-Distributed-Factoring-Network-ZJLT-&amp;locale=zh-cn">登录</a>
+ -->
+  </div>
+</header>
+
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="帮助中心">
+      
+        <a href="/hc/zh-cn">帮助中心</a>
+      
+    </li>
+  
+    <li title="信息公示">
+      
+        <a href="/hc/zh-cn/categories/360000511434-%E4%BF%A1%E6%81%AF%E5%85%AC%E7%A4%BA">信息公示</a>
+      
+    </li>
+  
+    <li title="创业板项目信息公示">
+      
+        <a href="/hc/zh-cn/sections/360001421434-%E5%88%9B%E4%B8%9A%E6%9D%BF%E9%A1%B9%E7%9B%AE%E4%BF%A1%E6%81%AF%E5%85%AC%E7%A4%BA">创业板项目信息公示</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/zh-cn/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360000511434" />
+<input type="search" name="query" id="query" placeholder="搜索" aria-label="搜索" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">此组别内的文章</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360007087554-Tradove-BBC-" class="sidenav-item ">Tradove (BBC)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360007131513-%E5%AA%92%E4%BD%93%E8%81%94%E7%9B%9F%E9%93%BE-MUSK-MUSK-" class="sidenav-item ">媒体联盟链 (MUSK, MUSK)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360007052794-Morpheus-Labs-MITX-" class="sidenav-item ">Morpheus Labs  (MITX)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360007125233-Ormeus-ORME-" class="sidenav-item ">Ormeus (ORME)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360007124913-ZJLT-%E7%BB%88%E6%9E%81%E8%B4%A6%E6%9C%AC-ZJLT-Distributed-Factoring-Network-ZJLT-" class="sidenav-item current-article">ZJLT 终极账本 (ZJLT Distributed Factoring Network, ZJLT )</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360007124673-%E4%BB%A5%E9%A3%9E%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0-EtherFlyer-TCASH-" class="sidenav-item ">以飞去中心化交易平台 (EtherFlyer, TCASH)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360007048794-Decentralized-Accessible-Content-Chain-DACC-" class="sidenav-item ">Decentralized Accessible Content Chain (DACC)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360007045014-Open-Source-Chain-OSCH-" class="sidenav-item ">Open Source Chain (OSCH)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360007044114-iFish%E4%BA%91%E9%B1%BC-iFishyunyu-iFish-" class="sidenav-item ">iFish云鱼 (iFishyunyu, iFish)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360007119153-FOR-Agriculture-Chain-FACC-" class="sidenav-item ">FOR Agriculture Chain (FACC)</a>
+            </li>
+          
+        </ul>
+        
+          <a href="/hc/zh-cn/sections/360001421434-%E5%88%9B%E4%B8%9A%E6%9D%BF%E9%A1%B9%E7%9B%AE%E4%BF%A1%E6%81%AF%E5%85%AC%E7%A4%BA" class="article-sidebar-item">查看更多</a>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="ZJLT 终极账本 (ZJLT Distributed Factoring Network, ZJLT )" class="article-title">
+          ZJLT 终极账本 (ZJLT Distributed Factoring Network, ZJLT )
+          
+        </h1>
+
+        <div class="article-author">
+          <div class="avatar article-avatar">
+            
+              <span class="icon-agent"></span>
+            
+            <img src="https://assets.zendesk.com/hc/assets/default_avatar.png" alt="Avatar" class="user-avatar"/>
+          </div>
+          <div class="article-meta">
+            
+              Permanently deleted user
+            
+
+            <ul class="meta-group">
+              
+                <li class="meta-data"><time datetime="2018-07-19T11:58:38Z" title="2018-07-19T11:58:38Z" data-datetime="relative">2018年07月19日 11:58</time></li>
+                <li class="meta-data">更新于</li>
+              
+            </ul>
+          </div>
+        </div>
+        <a class="article-subscribe" title="打开登录对话框" rel="nofollow" role="button" data-auth-action="signin" aria-selected="false" href="/hc/zh-cn/articles/360007124913-ZJLT-%E7%BB%88%E6%9E%81%E8%B4%A6%E6%9C%AC-ZJLT-Distributed-Factoring-Network-ZJLT-/subscription.html">关注</a>
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p><strong>项目信息</strong></p>
+<p><strong>全称</strong>：ZJLT Distributed Factoring Network</p>
+<p><strong>Token</strong><strong>简称</strong>：ZJLT</p>
+<p><strong>白皮书</strong>：</p>
+<p><a href="http://www.zjlt.io/ZJLT_Distributed_Factoring_Network_v1.0.pdf"> http://www.zjlt.io/ZJLT_Distributed_Factoring_Network_v1.0.pdf</a></p>
+<p><strong>官网</strong>：</p>
+<p><a href="http://www.zjlt.io"> www.zjlt.io</a></p>
+<p><strong>区块查询</strong>：</p>
+<p><a href="https://etherscan.io/token/0xBC34985b4d345AeA933d5cAc19F3a86bd1Fb398F#balances"> https://etherscan.io/token/0xBC34985b4d345AeA933d5cAc19F3a86bd1Fb398F#balances</a></p>
+<p><strong>简介</strong>：</p>
+<p> ZJLT针对企业搭建一个去中心化评级生态平台，给企业信用上链，通过智能合约完成去中心化，解决行业痛点；token作为智能合约项下的信用锁定凭证和生态价值的体现，随着企业自发且迫切的信用评级需求出现将呈现指数级的价值增长。</p>
+<p><strong>Token </strong><strong>的实际用途/</strong><strong>用例</strong>：</p>
+<p> token作为智能合约项下的信用锁定凭证和生态价值的体现，随着企业自发且迫切的信用评级需求出现将呈现指数级的价值增长。</p>
+<p><strong>项目详细的路线图和里程碑</strong>：</p>
+<p> 2017-09 完成市场及行业调研。<br>2017-11 架构论证完成，基础模型建立。<br>2018-01 白皮书V1.0发布。<br>2018-07 底层核心系统实现。<br>2018-10 去中心化信用评估模型算法设计，相关智能合约开发。<br>2018-11 Web预览版发布，实现企业单据上传及审核功能<br>2019-01 核心企业API接入<br>2019-02 正式版v1.0发布，完善的企业信用数据存证及评估系统上线。<br>2019-04 完成基于应收账款的保理业务产品设计。<br>2019-10 去中心化保险产品设计。</p>
+<p><strong>核心成员介绍</strong>：</p>
+<p> John Kaimins<br>John Kaimins先生是成功思维的策略家以及专业的人生导师，18年来一直研究成功的普遍规律与人体的量子能量效应。John已经发表了550多篇教育励志类的文章，主要覆盖中国、香港等400多个每日新闻频道。作为ZJLT的创始人，对项目将覆盖的生态圈有较深入的理解和认知，另外对于社区管理也有独到的见解。https://www.linkedin.com/in/john-kaimins-37121022/</p>
+<p>Attila Steven Csanyi<br>来自加拿大，ZJLT终极账本COO，区块链早期投资人，曾担任IEC国际、全球网络有限公司、世界技术有限公司领袖职位。负责社区管理、营销、业务发展、质量控制、产品设计及制造。https://www.linkedin.com/in/eglobal/</p>
+<p>Saravanakumar<br>技术总监，印度马德拉斯大学（Madras University）工学硕士，曾任职于谷歌、彭博社等多家高科技公司，担任研发工程师和技术专家等职务，具有丰富的开源架构、区块链底层、智能合约、共识机制等方面的开发经验。凭借多年区块链技术及数字货币从业经验，他合伙创立了印度区块链社区，该社区主要分享区块链方面的知识 https://www.linkedin.com/in/dezinebee/</p>
+<p><strong>Token </strong><strong>信息</strong></p>
+<p><strong>Token </strong><strong>的合约地址</strong>：</p>
+<p> 0xbc34985b4d345aea933d5cac19f3a86bd1fb398f</p>
+<p><strong>已验证合约代码（合约代码公开）链接</strong>：</p>
+<p><a href="https://etherscan.io/address/0xbc34985b4d345aea933d5cac19f3a86bd1fb398f#code%20"> https://etherscan.io/address/0xbc34985b4d345aea933d5cac19f3a86bd1fb398f#code</a>  </p>
+<p><strong>Token </strong><strong>的小数位精度</strong>：18</p>
+<p><strong>coinmarketcap.com</strong><strong>或非小号上关于Token </strong><strong>的链接</strong>：</p>
+<p><a href="https://www.feixiaohao.com/search?word=zjlt"> https://www.feixiaohao.com/search?word=zjlt</a></p>
+<p><strong>市值</strong>：3900万美金  (2018.7.16)</p>
+<p><strong>总发行量</strong>：2500000000</p>
+<p><strong>流通量</strong>：700000000  (2018.7.16)</p>
+<p><strong>Token</strong><strong>当前价格</strong>：0.05  (2018.7.16)</p>
+<p><strong>ICO </strong><strong>信息</strong></p>
+<p><strong>ICO/</strong><strong>私募价格</strong>：0.16</p>
+<p><strong>投资机构或投资人</strong>：蛮子基金/Beecool/创世资本/星耀资本/点点资本</p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=ZJLT+%E7%BB%88%E6%9E%81%E8%B4%A6%E6%9C%AC+%28ZJLT+Distributed+Factoring+Network%2C+ZJLT+%29&u=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360007124913-ZJLT-%25E7%25BB%2588%25E6%259E%2581%25E8%25B4%25A6%25E6%259C%25AC-ZJLT-Distributed-Factoring-Network-ZJLT-" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=zh&text=ZJLT+%E7%BB%88%E6%9E%81%E8%B4%A6%E6%9C%AC+%28ZJLT+Distributed+Factoring+Network%2C+ZJLT+%29&url=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360007124913-ZJLT-%25E7%25BB%2588%25E6%259E%2581%25E8%25B4%25A6%25E6%259C%25AC-ZJLT-Distributed-Factoring-Network-ZJLT-" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=FCoin&title=ZJLT+%E7%BB%88%E6%9E%81%E8%B4%A6%E6%9C%AC+%28ZJLT+Distributed+Factoring+Network%2C+ZJLT+%29&url=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360007124913-ZJLT-%25E7%25BB%2588%25E6%259E%2581%25E8%25B4%25A6%25E6%259C%25AC-ZJLT-Distributed-Factoring-Network-ZJLT-" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">这篇文章有帮助吗？</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="是" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360007124913-ZJLT-%25E7%25BB%2588%25E6%259E%2581%25E8%25B4%25A6%25E6%259C%25AC-ZJLT-Distributed-Factoring-Network-ZJLT-"></a>
+              <a class="button article-vote article-vote-down" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="否" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360007124913-ZJLT-%25E7%25BB%2588%25E6%259E%2581%25E8%25B4%25A6%25E6%259C%25AC-ZJLT-Distributed-Factoring-Network-ZJLT-"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label">0 人中有 0 人觉得有帮助</span>
+            </small>
+          </div>
+        
+
+        <div class="article-more-questions">
+          还有其它问题？<a href="/hc/zh-cn/requests/new">提交请求</a>
+        </div>
+        <div class="article-return-to-top">
+          <a href="#article-container">返回页首<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">相关文章</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCMHGGNJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLHHGNJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBjC9oYy96aC1jbi9hcnRpY2xlcy8zNjAwMDcxMjQ2NzMtJUU0JUJCJUE1JUU5JUEzJTlFJUU1JThFJUJCJUU0JUI4JUFEJUU1JUJGJTgzJUU1JThDJTk2JUU0JUJBJUE0JUU2JTk4JTkzJUU1JUI5JUIzJUU1JThGJUIwLUV0aGVyRmx5ZXItVENBU0gtBjsIVDoJcmFua2kG--eac35e3674fa6057de210bcb21ad13f91158e687" rel="nofollow">以飞去中心化交易平台 (EtherFlyer, TCASH)</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCPrNC9JTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLHHGNJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBoy9oYy96aC1jbi9hcnRpY2xlcy8zNjAwMDYyNzQ1NTQtRkNvaW4lRTUlODglOUIlRTQlQjglOUElRTYlOUQlQkYlRTYlOTQlQUYlRTYlOEMlODElRTUlODUlODUlRTUlODAlQkMlRTclOUElODQlRTYlOTUlQjAlRTUlQUQlOTclRTglQjUlODQlRTQlQkElQTclRTUlODglOTclRTglQTElQTgGOwhUOglyYW5raQc%3D--a42dbd126188a7eded68593fb4e5cc942a538b3b" rel="nofollow">FCoin创业板支持充值的数字资产列表</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCHnhGNJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLHHGNJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJdL2hjL3poLWNuL2FydGljbGVzLzM2MDAwNzEzMTUxMy0lRTUlQUElOTIlRTQlQkQlOTMlRTglODElOTQlRTclOUIlOUYlRTklOTMlQkUtTVVTSy1NVVNLLQY7CFQ6CXJhbmtpCA%3D%3D--de77ab17cc117f6bdae6c86819aa23f4064d9e98" rel="nofollow">媒体联盟链 (MUSK, MUSK)</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCGqlGdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLHHGNJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBjy9oYy96aC1jbi9hcnRpY2xlcy8zNjAwMDcxODE2NzQtJUU1JTg4JTlCJUU0JUI4JTlBJUU2JTlEJUJGJUU2JTk2JUIwJUU1JUI4JTgxJUU1JThGJTkxJUU4JUExJThDJUU0JUJCJUI3JUU2JUEwJUJDJUU1JTg1JUFDJUU3JUE0JUJBLTIwMTgtMDctMTktBjsIVDoJcmFua2kJ--d191062c3716d47b9a32f3306c1e3c0bd0bcde67" rel="nofollow">创业板新币发行价格公示【2018-07-19】</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCPHIGNJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLHHGNJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIxL2hjL3poLWNuL2FydGljbGVzLzM2MDAwNzEyNTIzMy1Pcm1ldXMtT1JNRS0GOwhUOglyYW5raQo%3D--cb01c62ed07ea401caaca94ce404e2309f33f3de" rel="nofollow">Ormeus (ORME)</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <div class="article-comments" id="article-comments">
+        <section class="comments">
+          <header class="comment-overview">
+            <h3 class="comment-heading">
+              评论
+            </h3>
+            <p class="comment-callout">0 条评论</p>
+            
+          </header>
+
+          <ul id="comments" class="comment-list">
+            
+          </ul>
+
+          
+
+          
+
+          <p class="comment-callout">文章评论已关闭。</p>
+        </section>
+      </div>
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    <a title="主页" href="/hc/zh-cn">帮助中心</a>
+
+    <div class="footer-language-selector">
+      
+        <div class="dropdown language-selector" aria-haspopup="true">
+          <a class="dropdown-toggle">
+            简体中文
+          </a>
+          <span class="dropdown-menu dropdown-menu-end" role="menu">
+            
+              <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F360007124913-ZJLT-Distributed-Factoring-Network-ZJLT-" dir="ltr" rel="nofollow" role="menuitem">
+                English (US)
+              </a>
+            
+          </span>
+        </div>
+      
+    </div>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+  
+  <script src="//static.zdassets.com/hc/assets/zh-cn.c1fcc94d0b3e27ef8ade.js"></script>
+  <script src="https://fcoin.zendesk.com/auth/v2/host.js" data-brand-id="360000411633" data-return-to="https://fcoin.zendesk.com/hc/zh-cn/articles/360007124913-ZJLT-%E7%BB%88%E6%9E%81%E8%B4%A6%E6%9C%AC-ZJLT-Distributed-Factoring-Network-ZJLT-" data-theme="hc" data-locale="zh-cn" data-auth-origin="360000411633,false,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"fcoin","environment":"production","name":"FCoin"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-cn","csrf_token":"hc:hcobject:server:fAx/CmAzDMkcPMn33sESySqSIllTL8YAwvKvTeGOc9srZ2zDhktome8/bDz1zgMwlGWY8//89S0mCNBYbwkW0A==","shared_csrf_token":null},"settings":{"zopim_enabled":true},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKemgtY24GOgZFVDoPYXJ0aWNsZV9pZGwrCLHHGNJTADoKX21ldGF7CzoPYWNjb3VudF9pZGkD9LYiOhNoZWxwX2NlbnRlcl9pZGwrCFVnrdFTADoNYnJhbmRfaWRsKwjxV7LRUwA6DHVzZXJfaWQwOg51c2VyX3JvbGVJIg5hbm9ueW1vdXMGOwZUOwBJIgp6aC1jbgY7BlQ=--590415251b6667f6bf0487e2496eed0ed665fb52","url":"https://fcoin.zendesk.com/hc/tracking/events?locale=zh-cn"},"current_record_id":"360007124913","current_record_url":"/hc/zh-cn/articles/360007124913-ZJLT-%E7%BB%88%E6%9E%81%E8%B4%A6%E6%9C%AC-ZJLT-Distributed-Factoring-Network-ZJLT-","current_record_title":"ZJLT 终极账本 (ZJLT Distributed Factoring Network, ZJLT )","search_results_count":null,"current_text_direction":"ltr","current_brand_url":"https://fcoin.zendesk.com","current_host_mapping":null,"current_path":"/hc/zh-cn/articles/360007124913-ZJLT-%E7%BB%88%E6%9E%81%E8%B4%A6%E6%9C%AC-ZJLT-Distributed-Factoring-Network-ZJLT-","authentication_domain":"https://fcoin.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"f8cd8409bcf8e7e57d1d3205e56f2865541a48cf","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":true,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://fcoin.zendesk.com/hc/admin/plan?locale=zh-cn","manage_content_url":"https://fcoin.zendesk.com/hc/zh-cn","arrange_content_url":"https://fcoin.zendesk.com/hc/admin/arrange_contents?locale=zh-cn","general_settings_url":"https://fcoin.zendesk.com/hc/admin/general_settings?locale=zh-cn","user_segments_url":"https://fcoin.zendesk.com/knowledge/user_segments?brand_id=360000411633","has_community_enabled":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"billing_url":"/access/return_to?return_to=https://fcoin.zendesk.com/admin/billing/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"/access/return_to?return_to=https://fcoin.zendesk.com/agent/admin/answer_bot","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":false,"arrange_articles_url":"https://fcoin.zendesk.com/knowledge/arrange?brand_id=360000411633","article_verification_url":"https://fcoin.zendesk.com/knowledge/verification?brand_id=360000411633","has_article_verification":false,"guide_language_settings_url":"https://fcoin.zendesk.com/hc/admin/language_settings?locale=zh-cn","docs_importer_url":"https://fcoin.zendesk.com/knowledge/import_articles?brand_id=360000411633","community_settings_url":"https://fcoin.zendesk.com/knowledge/community_settings?brand_id=360000411633","gather_plan_state":"subscribed","search_settings_url":"https://fcoin.zendesk.com/knowledge/search_settings?brand_id=360000411633","has_multibrand_search_in_plan":false,"theming_api_version":1,"has_merged_stats_endpoints":false,"has_pci_credit_card_custom_field":false,"current_brand_id":360000411633,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"has_assume_csrf_protection":true,"flash_messages":[]};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-835a44a7190205de1fd407712ba259a1.js"></script>
+  
+</body>
+</html>

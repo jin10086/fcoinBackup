@@ -1,0 +1,23 @@
+Date: Sat, 29 Feb 2020 06:06:42 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: __cfduid=dfd4f7da57266268d68e464b2594209201582956402; expires=Mon, 30-Mar-20 06:06:42 GMT; path=/; domain=.fcoin.zendesk.com; HttpOnly; SameSite=Lax
+Set-Cookie: __cfruid=2ce10ddf3813e9e99d2a61b963e2385f8102f440-1582956402; path=/; domain=.fcoin.zendesk.com; HttpOnly; Secure; SameSite=None
+X-Ua-Compatible: IE=edge
+Cache-Tags: resource:help_center#index, pod:pod14
+Content-Language: zh-cn
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Etag: W/"f195cca1e0238eb937d3f9775cf672a0"
+Cache-Control: max-age=0, public, s-maxage=180, stale-while-revalidate=60, stale-if-error=10800
+Strict-Transport-Security: max-age=31536000;
+X-Zendesk-User-Id: 
+X-Zendesk-Origin-Server: help-center-unicorn-7b6cd58b98-crcdt
+X-Request-Id: 56c6cdf84869dd83-IAD
+X-Runtime: 0.237951
+Protocol: HTTP/1.0
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: REVALIDATED
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 56c8742d9a556d82-SJC

@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <!-- v17644 -->
+
+  <title>杠杆交易指南 &ndash; 帮助中心</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:mmSPVACoLDTJH73HhOI4DmIZRS+nNn+FOaUyvJ/IlZwBIswlJ61eEbwdy++7pP1IahkFtVnL9QSnyH/0nB7SIg==" />
+
+  <meta name="description" content="一、什么是杠杆交易 杠杆交易指利用小额的资金进行数倍于原始金额的投资，以获得相对币价波动的数倍收益的交易。FCoin用户可以通过杠杆账户借入BTC、ETH、USDT等币种进行做空或做多，但如果错误判断币价波动趋势，将会造成更大程度的亏损，杠杆交易有较高风险，用户需谨慎投资。..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/2275060/4bf9c76f5c0ab5f04579e7be70abcfbd077b8498.png" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="帮助中心" />
+<meta property="og:title" content="杠杆交易指南" />
+<meta property="og:description" content="一、什么是杠杆交易
+杠杆交易指利用小额的资金进行数倍于原始金额的投资，以获得相对币价波动的数倍收益的交易。FCoin用户可以通过杠杆账户借入BTC、ETH、USDT等币种进行做空或做多，但如果错误判断币价波动趋势，将会造成更大程度的亏损，杠杆交易有较高风险，用户需谨慎投资。
+目前FCoin支持的交易对及杠杆借贷倍数具体为：
+BTC/USDT 交易对的杠杆倍数为 6 倍
+ETH/USDT 交易..." />
+<meta property="og:url" content="http://fcoin.zendesk.com/hc/zh-cn/articles/360012321053-%E6%9D%A0%E6%9D%86%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97" />
+<link rel="canonical" href="https://fcoin.zendesk.com/hc/zh-cn/articles/360012321053-%E6%9D%A0%E6%9D%86%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97" />
+<link rel="alternate" hreflang="en" href="https://fcoin.zendesk.com/hc/en-us/articles/360012321053-Margin-Trading-Guide" />
+<link rel="alternate" hreflang="zh" href="https://fcoin.zendesk.com/hc/zh-cn/articles/360012321053-%E6%9D%A0%E6%9D%86%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97" />
+
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-ebbf4a70487f9466c9be47bf4b6055f6.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-7eacdab8920220a42cfc91404f4ed182.css" />
+  <link rel="stylesheet" type="text/css" href="//p14.zdassets.com/hc/theming_assets/2275060/360000411633/style.css?digest=360053656834" />
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/2275060/0838e96fa9ce2d3bc0ccf47d672646327875c5cb.png" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    
+    
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+
+  <script type="text/javascript" src="//p14.zdassets.com/hc/theming_assets/2275060/360000411633/script.js?digest=360053656834"></script>
+</head>
+<body class="">
+  
+  
+
+  <header class="header">
+  <div class="logo">
+    <!-- <a title="主页" href="/hc/zh-cn"> -->
+    <a href ="https://www.fcoin.com"><img src="//theme.zdassets.com/theme_assets/2275060/4bf9c76f5c0ab5f04579e7be70abcfbd077b8498.png" alt="徽标"></a>
+    <!-- </a> -->
+  </div>
+  <div class="nav-wrapper">
+    <span class="icon-menu"></span>
+    <nav class="user-nav" id="user-nav">
+      
+      <a class="submit-a-request" href="/hc/zh-cn/requests/new">提交请求</a>
+    </nav>
+	  <!-- user login -->
+    <!--   <a class="login" data-auth-action="signin" role="button" rel="nofollow" title="打开对话框" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360012321053-%25E6%259D%25A0%25E6%259D%2586%25E4%25BA%25A4%25E6%2598%2593%25E6%258C%2587%25E5%258D%2597&amp;locale=zh-cn">登录</a>
+ -->
+  </div>
+</header>
+
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="帮助中心">
+      
+        <a href="/hc/zh-cn">帮助中心</a>
+      
+    </li>
+  
+    <li title="常见问题">
+      
+        <a href="/hc/zh-cn/categories/360000255753-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98">常见问题</a>
+      
+    </li>
+  
+    <li title="杠杆交易">
+      
+        <a href="/hc/zh-cn/sections/360002589893-%E6%9D%A0%E6%9D%86%E4%BA%A4%E6%98%93">杠杆交易</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/zh-cn/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360000255753" />
+<input type="search" name="query" id="query" placeholder="搜索" aria-label="搜索" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">此组别内的文章</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360012330073-%E6%9D%A0%E6%9D%86%E4%BA%A4%E6%98%93%E6%9C%8D%E5%8A%A1%E5%8D%8F%E8%AE%AE" class="sidenav-item ">杠杆交易服务协议</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360012321053-%E6%9D%A0%E6%9D%86%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97" class="sidenav-item current-article">杠杆交易指南</a>
+            </li>
+          
+        </ul>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="杠杆交易指南" class="article-title">
+          杠杆交易指南
+          
+        </h1>
+
+        <div class="article-author">
+          <div class="avatar article-avatar">
+            
+              <span class="icon-agent"></span>
+            
+            <img src="https://fcoin.zendesk.com/system/photos/3601/6913/6473/fcoin-头像.png" alt="Avatar" class="user-avatar"/>
+          </div>
+          <div class="article-meta">
+            
+              FCoin
+            
+
+            <ul class="meta-group">
+              
+                <li class="meta-data"><time datetime="2019-12-05T06:01:47Z" title="2019-12-05T06:01:47Z" data-datetime="relative">2019年12月05日 06:01</time></li>
+                <li class="meta-data">更新于</li>
+              
+            </ul>
+          </div>
+        </div>
+        <a class="article-subscribe" title="打开登录对话框" rel="nofollow" role="button" data-auth-action="signin" aria-selected="false" href="/hc/zh-cn/articles/360012321053-%E6%9D%A0%E6%9D%86%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97/subscription.html">关注</a>
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p class="p1"><span class="s1">一、什么是杠杆交易</span></p>
+<p class="p1"><span class="s1">杠杆交易指利用小额的资金进行数倍于原始金额的投资，以获得相对币价波动的数倍收益的交易。</span><span class="s2">FCoin</span><span class="s1">用户可以通过杠杆账户借入</span><span class="s2">BTC</span><span class="s1">、</span><span class="s2">ETH</span><span class="s1">、</span><span class="s2">USDT等币种</span><span class="s1">进行做空或做多，但如果错误判断币价波动趋势，将会造成更大程度的亏损，杠杆交易有较高风险，用户需谨慎投资。</span></p>
+<p class="p1"><span class="s1">目前FCoin支持的交易对及杠杆借贷倍数具体为：</span></p>
+<p class="p1"><span class="s1">BTC/USDT 交易对的杠杆倍数为 6 倍</span></p>
+<p class="p1"><span class="s1">ETH/USDT 交易对的杠杆倍数为 5 倍</span></p>
+<p>LTC/USDT 交易对的杠杆倍数为 5 倍</p>
+<p>EOS/USDT 交易对的杠杆倍数为 5 倍</p>
+<p>XRP/USDT 交易对的杠杆倍数为 5 倍</p>
+<p>ETC/USDT 交易对的杠杆倍数为 5 倍</p>
+<p>XLM/USDT 交易对的杠杆倍数为 3 倍</p>
+<p>ZEC/USDT 交易对的杠杆倍数为 3 倍</p>
+<p>ADA/USDT 交易对的杠杆倍数为 3 倍</p>
+<p>DASH/USDT 交易对的杠杆倍数为 3 倍</p>
+<p class="p1">BSV/USDT 交易对的杠杆倍数为 3 倍</p>
+<p class="p1"> </p>
+<p class="p1"><span class="s1">二、如何进行杠杆交易</span></p>
+<p class="p1"><span class="s1">以下内容以 BTC/USDT 交易对为例进行说明。</span></p>
+<p class="p1"><span class="s2">1.</span><span class="s1">开通杠杆交易</span></p>
+<p>方法一：在账户模块中分别点击【杠杆账户】--【申请开通】，勾选“我已阅读了解并同意”然后点击立即开通，即可申请开通相应的杠杆交易账户。</p>
+<p class="p1"><img src="/hc/article_attachments/360019770674/__1.png" alt="__1.png"></p>
+<p class="p1"><img src="/hc/article_attachments/360019770694/__2.png" alt="__2.png"></p>
+<p>方法二：在交易页面点击左上角【杠杆交易】，选中要开通的杠杆交易，以开通BTC/USDT为例，点击“账户资产”中的【申请开通】，勾选“我已阅读了解并同意”然后点击立即开通，即可申请开通相应的杠杆交易账户。</p>
+<p class="p1"><img src="/hc/article_attachments/360019770714/__3.png" alt="__3.png"></p>
+<p class="p1"><img src="/hc/article_attachments/360019770734/__4.png" alt="__4.png"></p>
+<p class="p1"><span class="s1">2.</span><span class="s2">转入本金</span></p>
+<p class="p1"><span class="s2">方法一：在交易页面点击【转入】</span><span class="s2">按钮，可从</span><span class="s1">“</span><span class="s2">我的钱包</span><span class="s1">”</span><span class="s2">或</span><span class="s1">“</span><span class="s2">交易账户</span><span class="s1">”</span><span class="s2">中转入本金。</span></p>
+<p class="p1"><span class="s2">由于单次最小借贷数量为</span><span class="s1">100 USDT</span><span class="s2">，则至少需要转入价值25</span><span class="s1"> USDT</span><span class="s2">的资产才能借币</span></p>
+<p class="p1"><img src="/hc/article_attachments/360019842854/__5.png" alt="__5.png"></p>
+<p class="p1"><img src="/hc/article_attachments/360019842874/__6.png" alt="__6.png"></p>
+<p class="p1"><span class="s1">方法二：账户→杠杆账户→资金划转→转入，然后输入转入的币种和数量。</span></p>
+<p class="p1"><img src="/hc/article_attachments/360019842914/__7.png" alt="__7.png"></p>
+<p class="p1"><img src="/hc/article_attachments/360020752973/__8.png" alt="__8.png"></p>
+<p class="p1"><span class="s1">3.</span><span class="s2">借币</span></p>
+<p>第一步：在杠杆交易页面或【杠杆账户】中点击【杠杆管理】；</p>
+<p class="p2"><img src="/hc/article_attachments/360019842894/__6-1.png" alt="__6-1.png"></p>
+<p class="p1"><img src="/hc/article_attachments/360020752993/__9.png" alt="__9.png"></p>
+<p class="p1"><span class="s1">第二步：</span>在杠杆管理页面右侧选择要借贷的币种和数量。BTC/USDT杠杆账户只能借入BTC或USDT</p>
+<p class="p1"><img src="/hc/article_attachments/360020753013/__10.png" alt="__10.png"></p>
+<p class="p1"><span class="s1">杠杆倍数：5倍杠杆，即您可以借入相当于本金4倍数量的资金进行杠杆交易。</span></p>
+<p class="p1"><span class="s1">单次最小借贷数量：</span><span class="s2">100 USDT</span><span class="s1">（或等额其他资产）</span></p>
+<p class="p2"> </p>
+<p class="p3"><span class="s1">4.</span><span class="s3">交易</span></p>
+<p class="p1"><span class="s1">完成借贷后，在交易页面进行杠杆交易，可根据判断进行做多或做空。</span></p>
+<p><strong>例：做多</strong></p>
+<p>在BTC/USDT杠杆交易中，如果您认为BTC的价格会上涨（比如从4000 USDT涨到5000 USDT），则需要进行做多操作。</p>
+<p>此时需要借入USDT，然后买入BTC，比如借入4000 USDT，买入为1 BTC，当BTC价格涨到5000 USDT时，卖掉手中的1 BTC，换成5000 USDT，归还借贷和利息后，约赚得1000 USDT。</p>
+<p><strong>例：做空</strong></p>
+<p>在BTC/USDT杠杆交易中，如果您认为BTC的价格会下跌（比如从5000 USDT下跌到4000 USDT），则需要进行做空操作。</p>
+<p>此时需要借入BTC，然后卖出BTC，比如借入1 BTC，卖出为5000 USDT，当BTC价格跌到4000 USDT时，用手中的4000 USDT买入1 BTC用于归还平台借款（注意归还利息），约赚得1000 USDT。</p>
+<p class="p1"><span class="s1">交易页面和杠杆管理中会提示您当前账户的风险率和根据当前持仓比例的爆仓价。</span></p>
+<p class="p1"><span class="s1">持仓数量和币价的变化带来风险率的变化，风险率</span><span class="s2">=</span><span class="s1">总资产</span><span class="s2">/</span><span class="s1">借贷资产</span><span class="s2">*100%</span></p>
+<p class="p1"><span class="s1">当某币币杠杆账户的风险率</span><span class="s2">≤110%</span><span class="s1">时，账户将触发爆仓以归还借贷资金。</span></p>
+<p class="p2"> </p>
+<p class="p3"><span class="s1">5.</span><span class="s3">还币</span></p>
+<p class="p1"><span class="s1">第一步：在杠杆管理中，根据借币历史，以借贷单作为还币依据。点击【还币】</span></p>
+<p class="p1"><span class="s1"><img src="/hc/article_attachments/360020681793/__10-1.png" alt="__10-1.png"></span></p>
+<p class="p1"><span class="s1"><img src="/hc/article_attachments/360020681233/__11.png" alt="__11.png"></span></p>
+<p class="p1"><img src="/hc/article_attachments/360019771034/__12.png" alt="__12.png"></p>
+<p class="p1"><span class="s1">第二步：杠杆账户和币种不可修改，可选择部分还款或全部还款，需要依据两个原则</span></p>
+<p class="p1"><span class="s1">原则一：归还币种与借贷币种相同</span></p>
+<p class="p1"><span class="s1">原则二：部分还款时，默认优先归还利息，全部归还后将不再计算利息</span></p>
+<p class="p1"><span class="s1">日利率：各个杠杆借贷币种的日利率都是浮动的</span><span class="s1">。</span></p>
+<p class="p1"><span class="s1">利息计算方式：利息 = 借贷数量 * 日利率/24 * 小时数</span></p>
+<p class="p2">按小时计算：从借贷申请开始计时，每1小时计息一次。</p>
+<p class="p2"> </p>
+<p class="p1"><span class="s1">以上就是</span><span class="s2">FCoin五</span><span class="s1">倍杠杆的使用说明。交易有风险，投资需谨慎。</span></p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%E6%9D%A0%E6%9D%86%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97&u=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360012321053-%25E6%259D%25A0%25E6%259D%2586%25E4%25BA%25A4%25E6%2598%2593%25E6%258C%2587%25E5%258D%2597" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=zh&text=%E6%9D%A0%E6%9D%86%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97&url=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360012321053-%25E6%259D%25A0%25E6%259D%2586%25E4%25BA%25A4%25E6%2598%2593%25E6%258C%2587%25E5%258D%2597" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=FCoin&title=%E6%9D%A0%E6%9D%86%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97&url=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360012321053-%25E6%259D%25A0%25E6%259D%2586%25E4%25BA%25A4%25E6%2598%2593%25E6%258C%2587%25E5%258D%2597" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">这篇文章有帮助吗？</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="是" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360012321053-%25E6%259D%25A0%25E6%259D%2586%25E4%25BA%25A4%25E6%2598%2593%25E6%258C%2587%25E5%258D%2597"></a>
+              <a class="button article-vote article-vote-down" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="否" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360012321053-%25E6%259D%25A0%25E6%259D%2586%25E4%25BA%25A4%25E6%2598%2593%25E6%258C%2587%25E5%258D%2597"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label">1 人中有 1 人觉得有帮助</span>
+            </small>
+          </div>
+        
+
+        <div class="article-more-questions">
+          还有其它问题？<a href="/hc/zh-cn/requests/new">提交请求</a>
+        </div>
+        <div class="article-return-to-top">
+          <a href="#article-container">返回页首<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">相关文章</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCFk0aNJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCB0RaNJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJtL2hjL3poLWNuL2FydGljbGVzLzM2MDAxMjMzMDA3My0lRTYlOUQlQTAlRTYlOUQlODYlRTQlQkElQTQlRTYlOTglOTMlRTYlOUMlOEQlRTUlOEElQTElRTUlOEQlOEYlRTglQUUlQUUGOwhUOglyYW5raQY%3D--f10e87cc1206733bfe441dc84a7d3072f53a6bb2" rel="nofollow">杠杆交易服务协议</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCPJmZtJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCB0RaNJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJyL2hjL3poLWNuL2FydGljbGVzLzM2MDAxMjIxMTk1NC1GQ29pbiVFNiU5RCVBMCVFNiU5RCU4NiVFNCVCQSVBNCVFNiU5OCU5MyVFNSVCQyU4MCVFNiU5NCVCRSVFNSU4NSVBQyVFNSU5MSU4QQY7CFQ6CXJhbmtpBw%3D%3D--056a6db98dab0e5b4205053e0cb832b34d505eff" rel="nofollow">FCoin杠杆交易开放公告</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCA6ZY9JTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCB0RaNJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBjS9oYy96aC1jbi9hcnRpY2xlcy8zNjAwMTIwMjgxNzQtJUU0JUI4JUJCJUU2JTlEJUJGQSVFNSU4NSU4RCVFNiU4OSU4QiVFNyVCQiVBRCVFOCVCNCVCOSVFNiU5QyVCQSVFNSU4OCVCNiVFOCVCMCU4MyVFNiU5NSVCNCVFOSVBMiU4NCVFNSU5MSU4QQY7CFQ6CXJhbmtpCA%3D%3D--562d2eb570f5053d0abb759b090877aaa5945265" rel="nofollow">主板A免手续费机制调整预告</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCGayZdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCB0RaNJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJbL2hjL3poLWNuL2FydGljbGVzLzM2MDAxMjE2NTczNC1GQ29pbiVFNSVCNyVBNSVFNCVCRCU5QyVFNSU5MSVBOCVFNiU4QSVBNS0xMS0xMi0xMS0xNi0GOwhUOglyYW5raQk%3D--65da30491d64988692739f470b01c0a47962c615" rel="nofollow">FCoin工作周报(11.12-11.16)</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCGHhZ9JTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCB0RaNJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBhC9oYy96aC1jbi9hcnRpY2xlcy8zNjAwMTIzMDg4MzMtQml0Y29pbi1DYXNoLUFCQy1CQ0hBQkMtQml0Y29pbi1DYXNoLVNWLUJDSFNWLSVFNCVCQSVBNCVFNiU5OCU5MyVFNSVCQiVCNiVFOCVCRiU5RiVFNSU4NSVBQyVFNSU5MSU4QQY7CFQ6CXJhbmtpCg%3D%3D--4da46c3e554f3219c289047756e386da9cf3ef13" rel="nofollow">Bitcoin Cash ABC（BCHABC）、Bitcoin Cash SV（BCHSV）交易延迟公告</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <div class="article-comments" id="article-comments">
+        <section class="comments">
+          <header class="comment-overview">
+            <h3 class="comment-heading">
+              评论
+            </h3>
+            <p class="comment-callout">0 条评论</p>
+            
+          </header>
+
+          <ul id="comments" class="comment-list">
+            
+          </ul>
+
+          
+
+          
+
+          <p class="comment-callout">文章评论已关闭。</p>
+        </section>
+      </div>
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    <a title="主页" href="/hc/zh-cn">帮助中心</a>
+
+    <div class="footer-language-selector">
+      
+        <div class="dropdown language-selector" aria-haspopup="true">
+          <a class="dropdown-toggle">
+            简体中文
+          </a>
+          <span class="dropdown-menu dropdown-menu-end" role="menu">
+            
+              <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F360012321053-Margin-Trading-Guide" dir="ltr" rel="nofollow" role="menuitem">
+                English (US)
+              </a>
+            
+          </span>
+        </div>
+      
+    </div>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+  
+  <script src="//static.zdassets.com/hc/assets/zh-cn.c1fcc94d0b3e27ef8ade.js"></script>
+  <script src="https://fcoin.zendesk.com/auth/v2/host.js" data-brand-id="360000411633" data-return-to="https://fcoin.zendesk.com/hc/zh-cn/articles/360012321053-%E6%9D%A0%E6%9D%86%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97" data-theme="hc" data-locale="zh-cn" data-auth-origin="360000411633,false,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"fcoin","environment":"production","name":"FCoin"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-cn","csrf_token":"hc:hcobject:server:ajAUe8UYp08wMerDsvOtq9iEl4jFDbio6A8DmNBvusDxdlcK4h3VakUznOuNtWjt0ITXEjvwMil2Yk7Q07n9fg==","shared_csrf_token":null},"settings":{"zopim_enabled":true},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKemgtY24GOgZFVDoPYXJ0aWNsZV9pZGwrCB0RaNJTADoKX21ldGF7CzoPYWNjb3VudF9pZGkD9LYiOhNoZWxwX2NlbnRlcl9pZGwrCFVnrdFTADoNYnJhbmRfaWRsKwjxV7LRUwA6DHVzZXJfaWQwOg51c2VyX3JvbGVJIg5hbm9ueW1vdXMGOwZUOwBJIgp6aC1jbgY7BlQ=--a50272a58afd9e68f6ba00f9251393fa5e0cc0b0","url":"https://fcoin.zendesk.com/hc/tracking/events?locale=zh-cn"},"current_record_id":"360012321053","current_record_url":"/hc/zh-cn/articles/360012321053-%E6%9D%A0%E6%9D%86%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97","current_record_title":"杠杆交易指南","search_results_count":null,"current_text_direction":"ltr","current_brand_url":"https://fcoin.zendesk.com","current_host_mapping":null,"current_path":"/hc/zh-cn/articles/360012321053-%E6%9D%A0%E6%9D%86%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97","authentication_domain":"https://fcoin.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"f8cd8409bcf8e7e57d1d3205e56f2865541a48cf","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"mobile_device":true,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":true,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://fcoin.zendesk.com/hc/admin/plan?locale=zh-cn","manage_content_url":"https://fcoin.zendesk.com/hc/zh-cn","arrange_content_url":"https://fcoin.zendesk.com/hc/admin/arrange_contents?locale=zh-cn","general_settings_url":"https://fcoin.zendesk.com/hc/admin/general_settings?locale=zh-cn","user_segments_url":"https://fcoin.zendesk.com/knowledge/user_segments?brand_id=360000411633","has_community_enabled":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"billing_url":"/access/return_to?return_to=https://fcoin.zendesk.com/admin/billing/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"/access/return_to?return_to=https://fcoin.zendesk.com/agent/admin/answer_bot","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":false,"arrange_articles_url":"https://fcoin.zendesk.com/knowledge/arrange?brand_id=360000411633","article_verification_url":"https://fcoin.zendesk.com/knowledge/verification?brand_id=360000411633","has_article_verification":false,"guide_language_settings_url":"https://fcoin.zendesk.com/hc/admin/language_settings?locale=zh-cn","docs_importer_url":"https://fcoin.zendesk.com/knowledge/import_articles?brand_id=360000411633","community_settings_url":"https://fcoin.zendesk.com/knowledge/community_settings?brand_id=360000411633","gather_plan_state":"subscribed","search_settings_url":"https://fcoin.zendesk.com/knowledge/search_settings?brand_id=360000411633","has_multibrand_search_in_plan":false,"theming_api_version":1,"has_merged_stats_endpoints":false,"has_pci_credit_card_custom_field":false,"current_brand_id":360000411633,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"has_assume_csrf_protection":true,"flash_messages":[]};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-835a44a7190205de1fd407712ba259a1.js"></script>
+  
+</body>
+</html>
