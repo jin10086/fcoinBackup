@@ -87,5 +87,6 @@ DOWNLOADER_MIDDLEWARES = {
 HTTPCACHE_ENABLED = True
 HTTPCACHE_EXPIRATION_SECS = 0
 HTTPCACHE_DIR = "httpcache"
+HTTPCACHE_POLICY = "scrapy.extensions.httpcache.RFC2616Policy"
 # HTTPCACHE_IGNORE_HTTP_CODES = []
 # HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
