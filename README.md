@@ -11,3 +11,5 @@
 `scrapy crawl zendesk`
 
 可以每天都执行一次...因为抓取过的会放到缓存里面...不会更新
+
+## 使用Github Action 15分钟执行一次 查看差异
