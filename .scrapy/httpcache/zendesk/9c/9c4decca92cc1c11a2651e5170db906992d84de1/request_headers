@@ -1,4 +1,5 @@
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language: en
 User-Agent: Scrapy/1.8.0 (+https://scrapy.org)
-Accept-Encoding: gzip,deflate,br
+If-None-Match: W/"f195cca1e0238eb937d3f9775cf672a0"
+Accept-Encoding: gzip,deflate
