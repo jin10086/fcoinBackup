@@ -2,12 +2,12 @@
 <html dir="ltr" lang="zh-CN">
 <head>
   <meta charset="utf-8" />
-  <!-- v17644 -->
+  <!-- v17659 -->
 
   <title>公告中心 &ndash; 帮助中心</title>
 
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="hc:meta:server:BATKTkW11MY+PfyMA1kxDWm+zJK1QERHQFxoCLwrYlm3SLk5TTUtnpVIy+dslyJhiKT4loOBoo0/U1l7MLZbww==" />
+<meta name="csrf-token" content="hc:meta:server:LhirijopYLynpr63NvibnB+xX95zdF0MD15xf/BnCVl7qGdY1EzqKR4ltnxuZGr0obLcJvLi5lGwKbF+82EFRw==" />
 
   <link rel="canonical" href="https://fcoin.zendesk.com/hc/zh-cn/categories/360000333493-%E5%85%AC%E5%91%8A%E4%B8%AD%E5%BF%83" />
 <link rel="alternate" hreflang="en" href="https://fcoin.zendesk.com/hc/en-us/categories/360000333493-Announcements" />
@@ -45,7 +45,7 @@
       <a class="submit-a-request" href="/hc/zh-cn/requests/new">提交请求</a>
     </nav>
 	  <!-- user login -->
-    <!--   <a class="login" data-auth-action="signin" role="button" rel="nofollow" title="打开对话框" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Fcategories%2F360000333493-%25E5%2585%25AC%25E5%2591%258A%25E4%25B8%25AD%25E5%25BF%2583&amp;locale=zh-cn">登录</a>
+    <!--   <a class="login" data-auth-action="signin" role="button" rel="nofollow" title="打开对话框" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Fcategories%2F360000333493&amp;locale=zh-cn">登录</a>
  -->
   </div>
 </header>
@@ -93,6 +93,16 @@
                 
                   <li class="article-list-item">
                     
+                    <a href="/hc/zh-cn/articles/360044591353-%E5%AF%B9%E4%BA%8E%E4%BB%8A%E6%97%A5%E8%B0%A3%E8%A8%80%E7%9A%84%E6%BE%84%E6%B8%85%E4%BB%A5%E5%8F%8A%E5%AF%B9-%E5%89%8D-%E4%B8%B9%E5%8D%8E%E8%B5%84%E6%9C%AC%E5%90%88%E4%BC%99%E4%BA%BADovey%E7%9A%84%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94" class="article-list-link">对于今日谣言的澄清以及对“前”丹华资本合伙人Dovey的公开回应</a>
+                  </li>
+                
+                  <li class="article-list-item">
+                    
+                    <a href="/hc/zh-cn/articles/360044590813-FCoin-FMex%E6%95%B0%E6%8D%AE%E6%8A%AB%E9%9C%B2%E5%8F%8A%E9%87%8D%E5%90%AF%E8%BF%9B%E5%B1%95%E5%85%AC%E5%91%8A" class="article-list-link">FCoin、FMex数据披露及重启进展公告</a>
+                  </li>
+                
+                  <li class="article-list-item">
+                    
                     <a href="/hc/zh-cn/articles/360043817914-FCoin%E9%87%8D%E5%90%AF%E7%8E%B0%E6%9C%89%E5%B7%A5%E4%BD%9C%E8%BF%9B%E5%BA%A6%E6%B1%87%E6%8A%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E6%96%B9%E6%A1%88%E5%BB%BA%E8%AE%AE" class="article-list-link">FCoin重启现有工作进度汇报及重启方案建议</a>
                   </li>
                 
@@ -111,20 +121,10 @@
                     <a href="/hc/zh-cn/articles/360043802294-%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BF%ABFCoin%E9%87%8D%E5%90%AF%E8%BF%9B%E5%BA%A6%E7%9A%84%E5%A3%B0%E6%98%8E" class="article-list-link">关于加快FCoin重启进度的声明</a>
                   </li>
                 
-                  <li class="article-list-item">
-                    
-                    <a href="/hc/zh-cn/articles/360044130453-FCoin%E5%8F%8AFMex%E9%87%8D%E5%90%AF%E5%B7%A5%E4%BD%9C%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%E5%85%AC%E5%91%8A" class="article-list-link">FCoin及FMex重启工作正式开始公告</a>
-                  </li>
-                
-                  <li class="article-list-item">
-                    
-                    <a href="/hc/zh-cn/articles/360044085213-%E9%82%AE%E4%BB%B6%E6%8F%90%E7%8E%B0%E6%9F%A5%E8%AF%A2%E9%A1%B5%E9%9D%A2%E4%B8%8A%E7%BA%BF" class="article-list-link">邮件提现查询页面上线</a>
-                  </li>
-                
               </ul>
               
                 <a href="/hc/zh-cn/sections/360000782633-%E6%9C%80%E6%96%B0%E5%85%AC%E5%91%8A" class="see-all-articles">
-                  查看所有 493 篇文章
+                  查看所有 495 篇文章
                 </a>
               
             
@@ -305,8 +305,8 @@
 
   <!-- / -->
   
-  <script src="//static.zdassets.com/hc/assets/zh-cn.c1fcc94d0b3e27ef8ade.js"></script>
-  <script src="https://fcoin.zendesk.com/auth/v2/host.js" data-brand-id="360000411633" data-return-to="https://fcoin.zendesk.com/hc/zh-cn/categories/360000333493-%E5%85%AC%E5%91%8A%E4%B8%AD%E5%BF%83" data-theme="hc" data-locale="zh-cn" data-auth-origin="360000411633,false,true"></script>
+  <script src="//static.zdassets.com/hc/assets/zh-cn.ed7371793d2734c96518.js"></script>
+  <script src="https://fcoin.zendesk.com/auth/v2/host.js" data-brand-id="360000411633" data-return-to="https://fcoin.zendesk.com/hc/zh-cn/categories/360000333493" data-theme="hc" data-locale="zh-cn" data-auth-origin="360000411633,false,true"></script>
 
   <script type="text/javascript">
   /*
@@ -322,11 +322,11 @@
   HelpCenter = {};
   HelpCenter.account = {"subdomain":"fcoin","environment":"production","name":"FCoin"};
   HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
-  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-cn","csrf_token":"hc:hcobject:server:g6IHZ3N+tbGWMgC3TRIR5e9T2j4cgRtN9lfKKvNGODUw7nQQe/5M6T1HN9wi3AKJDknuOipA/YeJWPtZf9sBrw==","shared_csrf_token":null},"settings":{"zopim_enabled":true},"usage_tracking":{"event":"category_viewed","data":"BAh7CDoQY2F0ZWdvcnlfaWRsKwi1JrHRUwA6C2xvY2FsZUkiCnpoLWNuBjoGRVQ6Cl9tZXRhews6D2FjY291bnRfaWRpA/S2IjoTaGVscF9jZW50ZXJfaWRsKwhVZ63RUwA6DWJyYW5kX2lkbCsI8Vey0VMAOgx1c2VyX2lkMDoOdXNlcl9yb2xlSSIOYW5vbnltb3VzBjsHVDsGSSIKemgtY24GOwdU--e662e75af536a33b5abd0a330162781b96de0d93","url":"https://fcoin.zendesk.com/hc/tracking/events?locale=zh-cn"},"current_record_id":null,"current_record_url":null,"current_record_title":null,"search_results_count":null,"current_text_direction":"ltr","current_brand_url":"https://fcoin.zendesk.com","current_host_mapping":null,"current_path":"/hc/zh-cn/categories/360000333493-%E5%85%AC%E5%91%8A%E4%B8%AD%E5%BF%83","authentication_domain":"https://fcoin.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"f8cd8409bcf8e7e57d1d3205e56f2865541a48cf","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":true,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://fcoin.zendesk.com/hc/admin/plan?locale=zh-cn","manage_content_url":"https://fcoin.zendesk.com/hc/zh-cn","arrange_content_url":"https://fcoin.zendesk.com/hc/admin/arrange_contents?locale=zh-cn","general_settings_url":"https://fcoin.zendesk.com/hc/admin/general_settings?locale=zh-cn","user_segments_url":"https://fcoin.zendesk.com/knowledge/user_segments?brand_id=360000411633","has_community_enabled":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"billing_url":"/access/return_to?return_to=https://fcoin.zendesk.com/admin/billing/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"/access/return_to?return_to=https://fcoin.zendesk.com/agent/admin/answer_bot","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":false,"arrange_articles_url":"https://fcoin.zendesk.com/knowledge/arrange?brand_id=360000411633","article_verification_url":"https://fcoin.zendesk.com/knowledge/verification?brand_id=360000411633","has_article_verification":false,"guide_language_settings_url":"https://fcoin.zendesk.com/hc/admin/language_settings?locale=zh-cn","docs_importer_url":"https://fcoin.zendesk.com/knowledge/import_articles?brand_id=360000411633","community_settings_url":"https://fcoin.zendesk.com/knowledge/community_settings?brand_id=360000411633","gather_plan_state":"subscribed","search_settings_url":"https://fcoin.zendesk.com/knowledge/search_settings?brand_id=360000411633","has_multibrand_search_in_plan":false,"theming_api_version":1,"has_merged_stats_endpoints":false,"has_pci_credit_card_custom_field":false,"current_brand_id":360000411633,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"has_assume_csrf_protection":true,"flash_messages":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-cn","csrf_token":"hc:hcobject:server:AzUM1UElqL+8tYJmn5+hehQnRkhgWjCtxqDjucHmdw5WhcAHr0AiKgU2iq3HA1ASqiTFsOHMi/B51yO4wuB7EA==","shared_csrf_token":null},"settings":{"zopim_enabled":true},"usage_tracking":{"event":"category_viewed","data":"BAh7CDoQY2F0ZWdvcnlfaWRsKwi1JrHRUwA6C2xvY2FsZUkiCnpoLWNuBjoGRVQ6Cl9tZXRhews6D2FjY291bnRfaWRpA/S2IjoTaGVscF9jZW50ZXJfaWRsKwhVZ63RUwA6DWJyYW5kX2lkbCsI8Vey0VMAOgx1c2VyX2lkMDoOdXNlcl9yb2xlSSIOYW5vbnltb3VzBjsHVDsGSSIKemgtY24GOwdU--e662e75af536a33b5abd0a330162781b96de0d93","url":"https://fcoin.zendesk.com/hc/tracking/events?locale=zh-cn"},"current_record_id":null,"current_record_url":null,"current_record_title":null,"search_results_count":null,"current_text_direction":"ltr","current_brand_url":"https://fcoin.zendesk.com","current_host_mapping":null,"current_path":"/hc/zh-cn/categories/360000333493-%E5%85%AC%E5%91%8A%E4%B8%AD%E5%BF%83","authentication_domain":"https://fcoin.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"2d0e11e3b56e66dc10c61fa0e18b7183cb95da75","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"mobile_device":true,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":true,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://fcoin.zendesk.com/hc/admin/plan?locale=zh-cn","manage_content_url":"https://fcoin.zendesk.com/hc/zh-cn","arrange_content_url":"https://fcoin.zendesk.com/hc/admin/arrange_contents?locale=zh-cn","general_settings_url":"https://fcoin.zendesk.com/hc/admin/general_settings?locale=zh-cn","user_segments_url":"https://fcoin.zendesk.com/knowledge/user_segments?brand_id=360000411633","has_community_enabled":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"billing_url":"/access/return_to?return_to=https://fcoin.zendesk.com/admin/billing/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"/access/return_to?return_to=https://fcoin.zendesk.com/agent/admin/answer_bot","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":false,"arrange_articles_url":"https://fcoin.zendesk.com/knowledge/arrange?brand_id=360000411633","article_verification_url":"https://fcoin.zendesk.com/knowledge/verification?brand_id=360000411633","has_article_verification":false,"guide_language_settings_url":"https://fcoin.zendesk.com/hc/admin/language_settings?locale=zh-cn","docs_importer_url":"https://fcoin.zendesk.com/knowledge/import_articles?brand_id=360000411633","community_settings_url":"https://fcoin.zendesk.com/knowledge/community_settings?brand_id=360000411633","gather_plan_state":"subscribed","search_settings_url":"https://fcoin.zendesk.com/knowledge/search_settings?brand_id=360000411633","has_multibrand_search_in_plan":false,"theming_api_version":1,"has_merged_stats_endpoints":false,"has_pci_credit_card_custom_field":false,"current_brand_id":360000411633,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"has_assume_csrf_protection":true,"flash_messages":[]};
 </script>
 
   <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
-  <script src="//static.zdassets.com/hc/assets/hc_enduser-835a44a7190205de1fd407712ba259a1.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-0d30706c9f12907f2d6f8afe59752ee3.js"></script>
   
 </body>
 </html>

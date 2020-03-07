@@ -2,12 +2,12 @@
 <html dir="ltr" lang="zh-CN">
 <head>
   <meta charset="utf-8" />
-  <!-- v17644 -->
+  <!-- v17659 -->
 
   <title>FCoin重启现有工作进度汇报及重启方案建议 &ndash; 帮助中心</title>
 
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="hc:meta:server:HKcJuSz6unsAdvnxoIaH94AqRW6KUfi40Gr/NJ+0VVtbCSi+Vmm0N4Mh79YlFV2aH7pY88AyFSnBFBjpyA1sZQ==" />
+<meta name="csrf-token" content="hc:meta:server:OWbiD40lbIvs6ieETzpE+41WC+UvAnNaS7Fo7WAqGHgSmuJ1xw1pvmrMlRiipH9VsIbYrl+AGvdpqZJKuGKGoA==" />
 
   <meta name="description" content="亲爱的社区用户：   目前，我正按照《关于加快FCoin重启进度的声明》全力推动工作落实：   1.我会继续公布FCoin所有结余资产冷（热）钱包的剩余批次地址，供大家查验（我确实需要更多的时间进行地址的核对、归集和整理，请大家给予一定耐心和支持）。  ..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/2275060/4bf9c76f5c0ab5f04579e7be70abcfbd077b8498.png" />
 <meta property="og:type" content="website" />
@@ -22,6 +22,7 @@
 2.为能使更多的社区用户最大程度的挽回损失，我在本公告后以附录形式公布下我根据社区建议整理的未经充分商讨的FCoin及FMex的重启方案（..." />
 <meta property="og:url" content="http://fcoin.zendesk.com/hc/zh-cn/articles/360043817914-FCoin%E9%87%8D%E5%90%AF%E7%8E%B0%E6%9C%89%E5%B7%A5%E4%BD%9C%E8%BF%9B%E5%BA%A6%E6%B1%87%E6%8A%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E6%96%B9%E6%A1%88%..." />
 <link rel="canonical" href="https://fcoin.zendesk.com/hc/zh-cn/articles/360043817914-FCoin%E9%87%8D%E5%90%AF%E7%8E%B0%E6%9C%89%E5%B7%A5%E4%BD%9C%E8%BF%9B%E5%BA%A6%E6%B1%87%E6%8A%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E6%96%B9%E6%A1%88%E5%BB%BA%E8%AE%AE" />
+<link rel="alternate" hreflang="en" href="https://fcoin.zendesk.com/hc/en-us/articles/360043817914-FCoin-restart-existing-work-progress-report-and-restart-plan" />
 <link rel="alternate" hreflang="zh" href="https://fcoin.zendesk.com/hc/zh-cn/articles/360043817914-FCoin%E9%87%8D%E5%90%AF%E7%8E%B0%E6%9C%89%E5%B7%A5%E4%BD%9C%E8%BF%9B%E5%BA%A6%E6%B1%87%E6%8A%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E6%96%B9%E6%A1%88%E5%BB%BA%E8%AE%AE" />
 
   <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-ebbf4a70487f9466c9be47bf4b6055f6.css" id="stylesheet" />
@@ -295,7 +296,7 @@
               <a class="button article-vote article-vote-down" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="否" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360043817914-FCoin%25E9%2587%258D%25E5%2590%25AF%25E7%258E%25B0%25E6%259C%2589%25E5%25B7%25A5%25E4%25BD%259C%25E8%25BF%259B%25E5%25BA%25A6%25E6%25B1%2587%25E6%258A%25A5%25E5%258F%258A%25E9%2587%258D%25E5%2590%25AF%25E6%2596%25B9%25E6%25A1%2588%25E5%25BB%25BA%25E8%25AE%25AE"></a>
             </div>
             <small class="article-votes-count">
-              <span class="article-vote-label">0 人中有 0 人觉得有帮助</span>
+              <span class="article-vote-label">1 人中有 0 人觉得有帮助</span>
             </small>
           </div>
         
@@ -311,6 +312,35 @@
       <section class="article-relatives">
         <div data-recent-articles></div>
         
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">相关文章</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCN2%2FTNRTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLqrSNRTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJ%2FL2hjL3poLWNuL2FydGljbGVzLzM2MDA0NDA4NTIxMy0lRTklODIlQUUlRTQlQkIlQjYlRTYlOEYlOTAlRTclOEUlQjAlRTYlOUYlQTUlRTglQUYlQTIlRTklQTElQjUlRTklOUQlQTIlRTQlQjglOEElRTclQkElQkYGOwhUOglyYW5raQY%3D--8d353982f1c95d5b6bb2f3edc1e30b2bc38298e9" rel="nofollow">邮件提现查询页面上线</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCKUmUNRTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLqrSNRTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIB6S9oYy96aC1jbi9hcnRpY2xlcy8zNjAwNDQzMDgxMzMtRkNvaW4lRTclQkIlOTMlRTQlQkQlOTklRTglQjUlODQlRTQlQkElQTclRTklODAlOEYlRTYlOTglOEUlRTglQUUlQTElRTUlODglOTIlRTUlOUMlQjAlRTUlOUQlODAlRTUlODUlQUMlRTUlQkMlODAtJUU0JUI5JThCJUU0JUJBJThDLSVFOSU5MiVCMSVFNSU4QyU4NSVFOCVCNSU4NCVFOSU4NyU5MSVFNCVCQyVCMCVFNyVBRSU5NzAtMjMlRTQlQkElQkYtBjsIVDoJcmFua2kH--c5450db846d1a9d13df0def920f6773edf20896c" rel="nofollow">FCoin结余资产透明计划地址公开（之二） 钱包资金估算0.23亿 </a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCLZuSNRTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLqrSNRTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBiC9oYy96aC1jbi9hcnRpY2xlcy8zNjAwNDM4MDIyOTQtJUU1JTg1JUIzJUU0JUJBJThFJUU1JThBJUEwJUU1JUJGJUFCRkNvaW4lRTklODclOEQlRTUlOTAlQUYlRTglQkYlOUIlRTUlQkElQTYlRTclOUElODQlRTUlQTMlQjAlRTYlOTglOEUGOwhUOglyYW5raQg%3D--3d15ed12409d0bd963ea51c804f97c4aea8d78cf" rel="nofollow">关于加快FCoin重启进度的声明</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJqASNRTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLqrSNRTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIB6C9oYy96aC1jbi9hcnRpY2xlcy8zNjAwNDM4MDY4NzQtRkNvaW4lRTclQkIlOTMlRTQlQkQlOTklRTglQjUlODQlRTQlQkElQTclRTklODAlOEYlRTYlOTglOEUlRTglQUUlQTElRTUlODglOTIlRTUlOUMlQjAlRTUlOUQlODAlRTUlODUlQUMlRTUlQkMlODAtJUU0JUI5JThCJUU0JUI4JTgwLSVFOSU5MiVCMSVFNSU4QyU4NSVFOCVCNSU4NCVFOSU4NyU5MSVFNCVCQyVCMCVFNyVBRSU5NzAtNDQlRTQlQkElQkYGOwhUOglyYW5raQk%3D--b7f527ccae1a6b1a923f5ccb75e57c4f6ec15353" rel="nofollow">FCoin结余资产透明计划地址公开（之一） 钱包资金估算0.44亿</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCKneQ9RTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLqrSNRTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSI8L2hjL3poLWNuL2FydGljbGVzLzM2MDA0MzUwMzI3My1GQ29pbiVFNyU5QyU5RiVFNyU5QiVCOAY7CFQ6CXJhbmtpCg%3D%3D--5831bdb6a46c85845936646fd02a89e04ba2e087" rel="nofollow">FCoin真相</a>
+        </li>
+      
+    </ul>
+  </section>
+
 
       </section>
       <div class="article-comments" id="article-comments">
@@ -352,7 +382,7 @@
           </a>
           <span class="dropdown-menu dropdown-menu-end" role="menu">
             
-              <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us" dir="ltr" rel="nofollow" role="menuitem">
+              <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F360043817914-FCoin-restart-existing-work-progress-report-and-restart-plan" dir="ltr" rel="nofollow" role="menuitem">
                 English (US)
               </a>
             
@@ -367,7 +397,7 @@
 
   <!-- / -->
   
-  <script src="//static.zdassets.com/hc/assets/zh-cn.c1fcc94d0b3e27ef8ade.js"></script>
+  <script src="//static.zdassets.com/hc/assets/zh-cn.ed7371793d2734c96518.js"></script>
   <script src="https://fcoin.zendesk.com/auth/v2/host.js" data-brand-id="360000411633" data-return-to="https://fcoin.zendesk.com/hc/zh-cn/articles/360043817914-FCoin%E9%87%8D%E5%90%AF%E7%8E%B0%E6%9C%89%E5%B7%A5%E4%BD%9C%E8%BF%9B%E5%BA%A6%E6%B1%87%E6%8A%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E6%96%B9%E6%A1%88%E5%BB%BA%E8%AE%AE" data-theme="hc" data-locale="zh-cn" data-auth-origin="360000411633,false,true"></script>
 
   <script type="text/javascript">
@@ -384,11 +414,11 @@
   HelpCenter = {};
   HelpCenter.account = {"subdomain":"fcoin","environment":"production","name":"FCoin"};
   HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
-  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-cn","csrf_token":"hc:hcobject:server:hZ7S/07cOaJWZg8eH50hsKnLkmAM9vdC4R8rQhQYcJTCMPP4NE837tUxGTmaDvvdNluP/UaVGtPwYcyfQ6FJqg==","shared_csrf_token":null},"settings":{"zopim_enabled":true},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKemgtY24GOgZFVDoPYXJ0aWNsZV9pZGwrCLqrSNRTADoKX21ldGF7CzoPYWNjb3VudF9pZGkD9LYiOhNoZWxwX2NlbnRlcl9pZGwrCFVnrdFTADoNYnJhbmRfaWRsKwjxV7LRUwA6DHVzZXJfaWQwOg51c2VyX3JvbGVJIg5hbm9ueW1vdXMGOwZUOwBJIgp6aC1jbgY7BlQ=--c2e505efb088a35ca4e5e1ad6c58b013354ef237","url":"https://fcoin.zendesk.com/hc/tracking/events?locale=zh-cn"},"current_record_id":"360043817914","current_record_url":"/hc/zh-cn/articles/360043817914-FCoin%E9%87%8D%E5%90%AF%E7%8E%B0%E6%9C%89%E5%B7%A5%E4%BD%9C%E8%BF%9B%E5%BA%A6%E6%B1%87%E6%8A%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E6%96%B9%E6%A1%88%E5%BB%BA%E8%AE%AE","current_record_title":"FCoin重启现有工作进度汇报及重启方案建议","search_results_count":null,"current_text_direction":"ltr","current_brand_url":"https://fcoin.zendesk.com","current_host_mapping":null,"current_path":"/hc/zh-cn/articles/360043817914-FCoin%E9%87%8D%E5%90%AF%E7%8E%B0%E6%9C%89%E5%B7%A5%E4%BD%9C%E8%BF%9B%E5%BA%A6%E6%B1%87%E6%8A%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E6%96%B9%E6%A1%88%E5%BB%BA%E8%AE%AE","authentication_domain":"https://fcoin.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"f8cd8409bcf8e7e57d1d3205e56f2865541a48cf","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"mobile_device":true,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":true,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://fcoin.zendesk.com/hc/admin/plan?locale=zh-cn","manage_content_url":"https://fcoin.zendesk.com/hc/zh-cn","arrange_content_url":"https://fcoin.zendesk.com/hc/admin/arrange_contents?locale=zh-cn","general_settings_url":"https://fcoin.zendesk.com/hc/admin/general_settings?locale=zh-cn","user_segments_url":"https://fcoin.zendesk.com/knowledge/user_segments?brand_id=360000411633","has_community_enabled":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"billing_url":"/access/return_to?return_to=https://fcoin.zendesk.com/admin/billing/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"/access/return_to?return_to=https://fcoin.zendesk.com/agent/admin/answer_bot","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":false,"arrange_articles_url":"https://fcoin.zendesk.com/knowledge/arrange?brand_id=360000411633","article_verification_url":"https://fcoin.zendesk.com/knowledge/verification?brand_id=360000411633","has_article_verification":false,"guide_language_settings_url":"https://fcoin.zendesk.com/hc/admin/language_settings?locale=zh-cn","docs_importer_url":"https://fcoin.zendesk.com/knowledge/import_articles?brand_id=360000411633","community_settings_url":"https://fcoin.zendesk.com/knowledge/community_settings?brand_id=360000411633","gather_plan_state":"subscribed","search_settings_url":"https://fcoin.zendesk.com/knowledge/search_settings?brand_id=360000411633","has_multibrand_search_in_plan":false,"theming_api_version":1,"has_merged_stats_endpoints":false,"has_pci_credit_card_custom_field":false,"current_brand_id":360000411633,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"has_assume_csrf_protection":true,"flash_messages":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-cn","csrf_token":"hc:hcobject:server:Lc5Kq8y6GB5qzk6BOTA2GCOPJP/44QU4E0y3TPpjOyEGMkrRhpIdK+zo/B3Urg22Hl/3tIhjbJUxVE3rIiul+Q==","shared_csrf_token":null},"settings":{"zopim_enabled":true},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKemgtY24GOgZFVDoPYXJ0aWNsZV9pZGwrCLqrSNRTADoKX21ldGF7CzoPYWNjb3VudF9pZGkD9LYiOhNoZWxwX2NlbnRlcl9pZGwrCFVnrdFTADoNYnJhbmRfaWRsKwjxV7LRUwA6DHVzZXJfaWQwOg51c2VyX3JvbGVJIg5hbm9ueW1vdXMGOwZUOwBJIgp6aC1jbgY7BlQ=--c2e505efb088a35ca4e5e1ad6c58b013354ef237","url":"https://fcoin.zendesk.com/hc/tracking/events?locale=zh-cn"},"current_record_id":"360043817914","current_record_url":"/hc/zh-cn/articles/360043817914-FCoin%E9%87%8D%E5%90%AF%E7%8E%B0%E6%9C%89%E5%B7%A5%E4%BD%9C%E8%BF%9B%E5%BA%A6%E6%B1%87%E6%8A%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E6%96%B9%E6%A1%88%E5%BB%BA%E8%AE%AE","current_record_title":"FCoin重启现有工作进度汇报及重启方案建议","search_results_count":null,"current_text_direction":"ltr","current_brand_url":"https://fcoin.zendesk.com","current_host_mapping":null,"current_path":"/hc/zh-cn/articles/360043817914-FCoin%E9%87%8D%E5%90%AF%E7%8E%B0%E6%9C%89%E5%B7%A5%E4%BD%9C%E8%BF%9B%E5%BA%A6%E6%B1%87%E6%8A%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E6%96%B9%E6%A1%88%E5%BB%BA%E8%AE%AE","authentication_domain":"https://fcoin.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"2d0e11e3b56e66dc10c61fa0e18b7183cb95da75","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"mobile_device":true,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":true,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://fcoin.zendesk.com/hc/admin/plan?locale=zh-cn","manage_content_url":"https://fcoin.zendesk.com/hc/zh-cn","arrange_content_url":"https://fcoin.zendesk.com/hc/admin/arrange_contents?locale=zh-cn","general_settings_url":"https://fcoin.zendesk.com/hc/admin/general_settings?locale=zh-cn","user_segments_url":"https://fcoin.zendesk.com/knowledge/user_segments?brand_id=360000411633","has_community_enabled":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"billing_url":"/access/return_to?return_to=https://fcoin.zendesk.com/admin/billing/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"/access/return_to?return_to=https://fcoin.zendesk.com/agent/admin/answer_bot","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":false,"arrange_articles_url":"https://fcoin.zendesk.com/knowledge/arrange?brand_id=360000411633","article_verification_url":"https://fcoin.zendesk.com/knowledge/verification?brand_id=360000411633","has_article_verification":false,"guide_language_settings_url":"https://fcoin.zendesk.com/hc/admin/language_settings?locale=zh-cn","docs_importer_url":"https://fcoin.zendesk.com/knowledge/import_articles?brand_id=360000411633","community_settings_url":"https://fcoin.zendesk.com/knowledge/community_settings?brand_id=360000411633","gather_plan_state":"subscribed","search_settings_url":"https://fcoin.zendesk.com/knowledge/search_settings?brand_id=360000411633","has_multibrand_search_in_plan":false,"theming_api_version":1,"has_merged_stats_endpoints":false,"has_pci_credit_card_custom_field":false,"current_brand_id":360000411633,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"has_assume_csrf_protection":true,"flash_messages":[]};
 </script>
 
   <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
-  <script src="//static.zdassets.com/hc/assets/hc_enduser-835a44a7190205de1fd407712ba259a1.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-0d30706c9f12907f2d6f8afe59752ee3.js"></script>
   
 </body>
 </html>

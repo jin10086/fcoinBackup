@@ -2,6 +2,6 @@ Referer: https://fcoin.zendesk.com/hc/zh-cn
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language: en
 User-Agent: Scrapy/1.8.0 (+https://scrapy.org)
-If-None-Match: W/"776551d22607001ae1c03b89dee13490"
-Accept-Encoding: gzip,deflate
-Cookie: __cfduid=d270ce7951d38c7d7f12b7a3771469caa1582973150; __cfruid=2030963ce047c1221e2a59786317c00cca5d7238-1582973151
+If-None-Match: W/"db2909fb398f227d027b601dc289ea7b"
+Accept-Encoding: gzip,deflate,br
+Cookie: __cfduid=d2b4ab0d03c13d3f4a10b787f11714b971583562467; __cfruid=dc01140a4c75e7678407f67c17ee1cf46736d211-1583562467

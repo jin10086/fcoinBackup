@@ -1,21 +1,21 @@
-Date: Sat, 29 Feb 2020 06:07:39 GMT
+Date: Sat, 07 Mar 2020 06:27:58 GMT
 Content-Type: text/html; charset=utf-8
 X-Ua-Compatible: IE=edge
 Cache-Tags: resource:articles#show, pod:pod14
 Content-Language: zh-cn
 X-Xss-Protection: 1; mode=block
 X-Frame-Options: SAMEORIGIN
-Etag: W/"f1ea1d114e6de117d20bdc41dc498f8d"
+Etag: W/"0bf21ea3b104caabe49c36f901c59d82"
 Cache-Control: max-age=0, public, s-maxage=180, stale-while-revalidate=60, stale-if-error=10800
 Strict-Transport-Security: max-age=31536000;
 X-Zendesk-User-Id: 
-X-Zendesk-Origin-Server: help-center-unicorn-7b6cd58b98-s7d2h
-X-Request-Id: 56c85c53d929ed7f-IAD
-X-Runtime: 0.225235
+X-Zendesk-Origin-Server: help-center-unicorn-784c4bc966-zm2rn
+X-Request-Id: 570240efbf7ded37-IAD
+X-Runtime: 0.396497
 Protocol: HTTP/1.0
 X-Content-Type-Options: nosniff
-Cf-Cache-Status: REVALIDATED
+Cf-Cache-Status: MISS
 Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
 Vary: Accept-Encoding
 Server: cloudflare
-Cf-Ray: 56c8758feebc6e3c-SJC
+Cf-Ray: 570240efbf7ded37-SJC

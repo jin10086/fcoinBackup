@@ -2,5 +2,6 @@ Referer: https://fcoin.zendesk.com/hc/zh-cn/categories/360001272573-OTC%E5%B8%AE
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language: en
 User-Agent: Scrapy/1.8.0 (+https://scrapy.org)
+If-None-Match: W/"6e82697ed7a61f0195d98a08574a6170"
 Accept-Encoding: gzip,deflate,br
-Cookie: __cfduid=dfd4f7da57266268d68e464b2594209201582956402; __cfruid=2ce10ddf3813e9e99d2a61b963e2385f8102f440-1582956402
+Cookie: __cfduid=d2b4ab0d03c13d3f4a10b787f11714b971583562467; __cfruid=dc01140a4c75e7678407f67c17ee1cf46736d211-1583562467
