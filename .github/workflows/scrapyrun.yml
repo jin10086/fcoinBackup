@@ -1,7 +1,7 @@
 name: 'GitHub Actions FcoinCheck Bot'
  
 on:
-  push:
+  # push:
   # schedule:
   #   - cron: '*/15 * * * *'
 
