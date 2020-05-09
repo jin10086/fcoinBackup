@@ -1,4 +1,8 @@
-## 备份文件在  https://github.com/jin10086/fcoinBackup/tree/master/rawHtml 
+## 备份文件在哪里
+
+可以直接在这边看到 https://github.com/jin10086/fcoinBackup/tree/master/rawHtml 
+
+或者在 https://github.com/jin10086/fcoinBackup/archive/1.zip 下载
 
 # fcoinBackup
  
