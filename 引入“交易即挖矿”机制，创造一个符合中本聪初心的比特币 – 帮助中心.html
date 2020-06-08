@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <!-- v17659 -->
+
+  <title>引入“交易即挖矿”机制，创造一个符合中本聪初心的比特币 &ndash; 帮助中心</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:OifbwacNPMrzvxXj3vr0Q4IbEqnV5dm73eVqynQhj6B0hcaMOAbsDqSZxlhLI7NgrgrY5FO1NYZ6lxjQ/YS/og==" />
+
+  <meta name="description" content="引入“交易即挖矿”机制，创造一个符合中本聪初心的比特币                                                                                   --FCoin创始人 张健  ..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/2275060/4bf9c76f5c0ab5f04579e7be70abcfbd077b8498.png" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="帮助中心" />
+<meta property="og:title" content="引入“交易即挖矿”机制，创造一个符合中本聪初心的比特币" />
+<meta property="og:description" content="引入“交易即挖矿”机制，创造一个符合中本聪初心的比特币
+                                                                                  --FCoin创始人 张健
+ 
+首先感谢中本聪，没有他，就没有这一切。比特币翻开了历史的新一页。
+ 
+比特币的初衷是做成一个“点对点的现金支付系统” (点击参考比特币白皮书原..." />
+<meta property="og:url" content="http://fcoin.zendesk.com/hc/zh-cn/articles/360006436313-%E5%BC%95%E5%85%A5-%E4%BA%A4%E6%98%93%E5%8D%B3%E6%8C%96%E7%9F%BF-%E6%9C%BA%E5%88%B6-%E5%88%9B%E9%80%A0%E4%B8%80%E4%B8%AA%E7%AC%A6%E5%90%88%E4..." />
+<link rel="canonical" href="https://fcoin.zendesk.com/hc/zh-cn/articles/360006436313-%E5%BC%95%E5%85%A5-%E4%BA%A4%E6%98%93%E5%8D%B3%E6%8C%96%E7%9F%BF-%E6%9C%BA%E5%88%B6-%E5%88%9B%E9%80%A0%E4%B8%80%E4%B8%AA%E7%AC%A6%E5%90%88%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%88%9D%E5%BF%83%E7%9A%84%E6%AF%94%E7%89%B9%E5%B8%81" />
+<link rel="alternate" hreflang="en" href="https://fcoin.zendesk.com/hc/en-us/articles/360006436313-Introduce-the-Trans-Fee-Mining-mechanism-to-create-a-Bitcoin-that-lives-up-to-what-Satoshi-Nakamoto-had-in-mind" />
+<link rel="alternate" hreflang="zh" href="https://fcoin.zendesk.com/hc/zh-cn/articles/360006436313-%E5%BC%95%E5%85%A5-%E4%BA%A4%E6%98%93%E5%8D%B3%E6%8C%96%E7%9F%BF-%E6%9C%BA%E5%88%B6-%E5%88%9B%E9%80%A0%E4%B8%80%E4%B8%AA%E7%AC%A6%E5%90%88%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%88%9D%E5%BF%83%E7%9A%84%E6%AF%94%E7%89%B9%E5%B8%81" />
+
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-ebbf4a70487f9466c9be47bf4b6055f6.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-7eacdab8920220a42cfc91404f4ed182.css" />
+  <link rel="stylesheet" type="text/css" href="//p14.zdassets.com/hc/theming_assets/2275060/360000411633/style.css?digest=360053656834" />
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/2275060/0838e96fa9ce2d3bc0ccf47d672646327875c5cb.png" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    
+    
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+
+  <script type="text/javascript" src="//p14.zdassets.com/hc/theming_assets/2275060/360000411633/script.js?digest=360053656834"></script>
+</head>
+<body class="">
+  
+  
+
+  <header class="header">
+  <div class="logo">
+    <!-- <a title="主页" href="/hc/zh-cn"> -->
+    <a href ="https://www.fcoin.com"><img src="//theme.zdassets.com/theme_assets/2275060/4bf9c76f5c0ab5f04579e7be70abcfbd077b8498.png" alt="徽标"></a>
+    <!-- </a> -->
+  </div>
+  <div class="nav-wrapper">
+    <span class="icon-menu"></span>
+    <nav class="user-nav" id="user-nav">
+      
+      <a class="submit-a-request" href="/hc/zh-cn/requests/new">提交请求</a>
+    </nav>
+	  <!-- user login -->
+    <!--   <a class="login" data-auth-action="signin" role="button" rel="nofollow" title="打开对话框" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360006436313-%25E5%25BC%2595%25E5%2585%25A5-%25E4%25BA%25A4%25E6%2598%2593%25E5%258D%25B3%25E6%258C%2596%25E7%259F%25BF-%25E6%259C%25BA%25E5%2588%25B6-%25E5%2588%259B%25E9%2580%25A0%25E4%25B8%2580%25E4%25B8%25AA%25E7%25AC%25A6%25E5%2590%2588%25E4%25B8%25AD%25E6%259C%25AC%25E8%2581%25AA%25E5%2588%259D%25E5%25BF%2583%25E7%259A%2584%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581&amp;locale=zh-cn">登录</a>
+ -->
+  </div>
+</header>
+
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="帮助中心">
+      
+        <a href="/hc/zh-cn">帮助中心</a>
+      
+    </li>
+  
+    <li title="团队博客">
+      
+        <a href="/hc/zh-cn/categories/360000587473-%E5%9B%A2%E9%98%9F%E5%8D%9A%E5%AE%A2">团队博客</a>
+      
+    </li>
+  
+    <li title="团队博客">
+      
+        <a href="/hc/zh-cn/sections/360001331434-%E5%9B%A2%E9%98%9F%E5%8D%9A%E5%AE%A2">团队博客</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/zh-cn/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360000587473" />
+<input type="search" name="query" id="query" placeholder="搜索" aria-label="搜索" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">此组别内的文章</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360007570273-FCoin%E5%BC%A0%E5%81%A5-%E5%85%B3%E4%BA%8EFCoin%E7%9A%84%E4%B8%89%E4%B8%AA%E7%9C%9F%E7%9B%B8-%E4%B8%80%E4%B8%AA%E8%AE%A1%E5%88%92%E5%92%8C%E4%B8%80%E4%B8%AA%E6%9D%80%E6%89%8B%E9%94%8F" class="sidenav-item ">FCoin张健：关于FCoin的三个真相、一个计划和一个杀手锏</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360006436313-%E5%BC%95%E5%85%A5-%E4%BA%A4%E6%98%93%E5%8D%B3%E6%8C%96%E7%9F%BF-%E6%9C%BA%E5%88%B6-%E5%88%9B%E9%80%A0%E4%B8%80%E4%B8%AA%E7%AC%A6%E5%90%88%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%88%9D%E5%BF%83%E7%9A%84%E6%AF%94%E7%89%B9%E5%B8%81" class="sidenav-item current-article">引入“交易即挖矿”机制，创造一个符合中本聪初心的比特币</a>
+            </li>
+          
+        </ul>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="引入“交易即挖矿”机制，创造一个符合中本聪初心的比特币" class="article-title">
+          引入“交易即挖矿”机制，创造一个符合中本聪初心的比特币
+          
+        </h1>
+
+        <div class="article-author">
+          <div class="avatar article-avatar">
+            
+              <span class="icon-agent"></span>
+            
+            <img src="https://assets.zendesk.com/hc/assets/default_avatar.png" alt="Avatar" class="user-avatar"/>
+          </div>
+          <div class="article-meta">
+            
+              Permanently deleted user
+            
+
+            <ul class="meta-group">
+              
+                <li class="meta-data"><time datetime="2018-06-29T04:55:37Z" title="2018-06-29T04:55:37Z" data-datetime="relative">2018年06月29日 04:55</time></li>
+                <li class="meta-data">更新于</li>
+              
+            </ul>
+          </div>
+        </div>
+        <a class="article-subscribe" title="打开登录对话框" rel="nofollow" role="button" data-auth-action="signin" aria-selected="false" href="/hc/zh-cn/articles/360006436313-%E5%BC%95%E5%85%A5-%E4%BA%A4%E6%98%93%E5%8D%B3%E6%8C%96%E7%9F%BF-%E6%9C%BA%E5%88%B6-%E5%88%9B%E9%80%A0%E4%B8%80%E4%B8%AA%E7%AC%A6%E5%90%88%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%88%9D%E5%BF%83%E7%9A%84%E6%AF%94%E7%89%B9%E5%B8%81/subscription.html">关注</a>
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><h2 class="p1">引入“交易即挖矿”机制，创造一个符合中本聪初心的比特币</h2>
+<p class="p1">                                                                                  --FCoin创始人 张健</p>
+<p class="p2"> </p>
+<p class="p1"><em>首先感谢中本聪，没有他，就没有这一切。比特币翻开了历史的新一页。</em></p>
+<p class="p1"> </p>
+<p class="p1">比特币的初衷是做成一个“点对点的现金支付系统” (点击参考比特币白皮书原文 <a href="https://bitcoin.org/bitcoin.pdf"><span class="s1">https://bitcoin.org/bitcoin.pdf</span></a>），但是以目前的发展看，比特币已经越来越偏离中本聪白皮书中的初衷，变得更像一个“投资品”，而不是一个“现金支付系统”。比特币所采用的POW机制并不完美--转账成本越来越高昂的背后，一个突出的问题是，使用者和维护者（POW挖矿）的利益并不一致，甚至是对立关系。同时由于缺乏制衡，导致维护者拥有过大且过于集中的权力，加重了系统的失衡。之后诞生POS机制，使用者和维护者（POS挖矿）之间利益不一致的问题仍然没有改善，加上发行机制的不公，整体甚至变得更糟。</p>
+<p class="p2"> </p>
+<p class="p2">在此，我利用通证经济的模型，尝试厘清数字货币体系中支付工具和投资标的物之间的关系，去实现一个我理想中的符合中本聪初心的比特币。</p>
+<p class="p2"> </p>
+<p class="p1">在设计此模型之前，我发现币圈很多参与者有意无意的把数字货币的支付工具属性和投资标的物属性混合在一起，从而带来了一系列的问题，所以我们需要首先将现存的数字货币做一个定义的辨析——支付工具与投资工具的辨析：Coin or Token？</p>
+<p class="p2"> </p>
+<p class="p1">本文中所定义的Coin，对标现实社会中的现金，强调支付工具的作用。而本文中所定义的Token，这里特指具备经济激励机制的通证，对标现实社会中的证券或者股权。两者之间显然是不同的，Coin是鼓励流通来产生使用价值，而Token是鼓励持有来产生投资价值。</p>
+<p class="p1">区分了这两者的不同后，我尝试提出一个新的模型，以实现一个更符合“中本聪初心的比特币”：</p>
+<p class="p2"> </p>
+<p class="p1">首先，我们定义Coin是一个社区系统中用于流通的现金，而Token则代表了这个社区系统的所有者权益；</p>
+<p class="p2"> </p>
+<p class="p1">然后，我们仍然采用POW机制来发行Coin，这里和比特币类似，“矿工挖矿”并获得Coin的奖励；</p>
+<p class="p2"> </p>
+<p class="p1">接下来，我们采用“交易即挖矿”的机制来发行Token，即每一笔Coin转账交易支付的手续费（也是Coin），按固定比率或算法折算成Token，奖励给交易发出者（即支付手续费的人）；</p>
+<p class="p2"> </p>
+<p class="p1">最后，我们规定Coin转账的手续费（也是Coin）并不随“挖矿”奖励给“矿工”，而是先累积并定期按Token的持有比例奖励给社区全体Token的持有者；</p>
+<p class="p2"> </p>
+<p class="p1">至此，我们通过POW机制及“交易即挖矿”机制的结合，同时完成了一个社区的Coin和Token的发行，并让真正的使用者逐步成为这个社区系统的拥有者，并和维护者的利益统一起来。POW机制带来了利益循环模型，而“交易即挖矿”机制补充了利益回馈模型，两者结合会让整个社区生态更加平衡与健壮。</p>
+<p class="p2"> </p>
+<p class="p1">可能到这里有人会问，如果Coin挖完了，谁来维护网络呢？我觉得完全没有必要限定Coin一定会挖完，比如可以规定每年固定数量释放（类似目前以太坊）。另外，Token的发行量可以考虑设置一个上限，但也希望“挖矿过程”足够长，这样能够保证足够多的使用者成为这个社区系统的所有者。</p>
+<p class="p1">上述模型还有很多细节如各种参数、比例等需要完善，还需要大量的探索与实践。我作为FCoin Fund的负责人，愿意首期出资等值1000万美金的数字货币，无偿支持愿意往此方向探索的团队。有兴趣获取资金支持的团队，请将团队背景、计划发邮件至<a href="mailto:zj@fcoin.com"><span class="s1">zj@fcoin.com</span></a>，审核通过的团队，我会尽快予以回复。当然，我同样乐于见到无需我们资金支持的团队向这个方向探索，造福整个数字货币社区。</p>
+<p class="p2"> </p>
+<p class="p2"> </p>
+<p class="p1">最后提醒大家的是，如果想在公有链领域真正有所建树，出于“公心”是先决条件。</p>
+<p class="p2"> </p>
+<p class="p2"> </p>
+<p class="p1">2018年6月28日</p>
+<p class="p1">张健</p>
+<p class="p1"> </p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%E5%BC%95%E5%85%A5%E2%80%9C%E4%BA%A4%E6%98%93%E5%8D%B3%E6%8C%96%E7%9F%BF%E2%80%9D%E6%9C%BA%E5%88%B6%EF%BC%8C%E5%88%9B%E9%80%A0%E4%B8%80%E4%B8%AA%E7%AC%A6%E5%90%88%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%88%9D%E5%BF%83%E7%9A%84%E6%AF%94%E7%89%B9%E5%B8%81&u=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360006436313-%25E5%25BC%2595%25E5%2585%25A5-%25E4%25BA%25A4%25E6%2598%2593%25E5%258D%25B3%25E6%258C%2596%25E7%259F%25BF-%25E6%259C%25BA%25E5%2588%25B6-%25E5%2588%259B%25E9%2580%25A0%25E4%25B8%2580%25E4%25B8%25AA%25E7%25AC%25A6%25E5%2590%2588%25E4%25B8%25AD%25E6%259C%25AC%25E8%2581%25AA%25E5%2588%259D%25E5%25BF%2583%25E7%259A%2584%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=zh&text=%E5%BC%95%E5%85%A5%E2%80%9C%E4%BA%A4%E6%98%93%E5%8D%B3%E6%8C%96%E7%9F%BF%E2%80%9D%E6%9C%BA%E5%88%B6%EF%BC%8C%E5%88%9B%E9%80%A0%E4%B8%80%E4%B8%AA%E7%AC%A6%E5%90%88%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%88%9D%E5%BF%83%E7%9A%84%E6%AF%94%E7%89%B9%E5%B8%81&url=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360006436313-%25E5%25BC%2595%25E5%2585%25A5-%25E4%25BA%25A4%25E6%2598%2593%25E5%258D%25B3%25E6%258C%2596%25E7%259F%25BF-%25E6%259C%25BA%25E5%2588%25B6-%25E5%2588%259B%25E9%2580%25A0%25E4%25B8%2580%25E4%25B8%25AA%25E7%25AC%25A6%25E5%2590%2588%25E4%25B8%25AD%25E6%259C%25AC%25E8%2581%25AA%25E5%2588%259D%25E5%25BF%2583%25E7%259A%2584%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=FCoin&title=%E5%BC%95%E5%85%A5%E2%80%9C%E4%BA%A4%E6%98%93%E5%8D%B3%E6%8C%96%E7%9F%BF%E2%80%9D%E6%9C%BA%E5%88%B6%EF%BC%8C%E5%88%9B%E9%80%A0%E4%B8%80%E4%B8%AA%E7%AC%A6%E5%90%88%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%88%9D%E5%BF%83%E7%9A%84%E6%AF%94%E7%89%B9%E5%B8%81&url=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360006436313-%25E5%25BC%2595%25E5%2585%25A5-%25E4%25BA%25A4%25E6%2598%2593%25E5%258D%25B3%25E6%258C%2596%25E7%259F%25BF-%25E6%259C%25BA%25E5%2588%25B6-%25E5%2588%259B%25E9%2580%25A0%25E4%25B8%2580%25E4%25B8%25AA%25E7%25AC%25A6%25E5%2590%2588%25E4%25B8%25AD%25E6%259C%25AC%25E8%2581%25AA%25E5%2588%259D%25E5%25BF%2583%25E7%259A%2584%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">这篇文章有帮助吗？</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="是" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360006436313-%25E5%25BC%2595%25E5%2585%25A5-%25E4%25BA%25A4%25E6%2598%2593%25E5%258D%25B3%25E6%258C%2596%25E7%259F%25BF-%25E6%259C%25BA%25E5%2588%25B6-%25E5%2588%259B%25E9%2580%25A0%25E4%25B8%2580%25E4%25B8%25AA%25E7%25AC%25A6%25E5%2590%2588%25E4%25B8%25AD%25E6%259C%25AC%25E8%2581%25AA%25E5%2588%259D%25E5%25BF%2583%25E7%259A%2584%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581"></a>
+              <a class="button article-vote article-vote-down" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="否" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360006436313-%25E5%25BC%2595%25E5%2585%25A5-%25E4%25BA%25A4%25E6%2598%2593%25E5%258D%25B3%25E6%258C%2596%25E7%259F%25BF-%25E6%259C%25BA%25E5%2588%25B6-%25E5%2588%259B%25E9%2580%25A0%25E4%25B8%2580%25E4%25B8%25AA%25E7%25AC%25A6%25E5%2590%2588%25E4%25B8%25AD%25E6%259C%25AC%25E8%2581%25AA%25E5%2588%259D%25E5%25BF%2583%25E7%259A%2584%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label">8 人中有 7 人觉得有帮助</span>
+            </small>
+          </div>
+        
+
+        <div class="article-more-questions">
+          还有其它问题？<a href="/hc/zh-cn/requests/new">提交请求</a>
+        </div>
+        <div class="article-return-to-top">
+          <a href="#article-container">返回页首<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">相关文章</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCPrNC9JTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCNlFDtJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBoy9oYy96aC1jbi9hcnRpY2xlcy8zNjAwMDYyNzQ1NTQtRkNvaW4lRTUlODglOUIlRTQlQjglOUElRTYlOUQlQkYlRTYlOTQlQUYlRTYlOEMlODElRTUlODUlODUlRTUlODAlQkMlRTclOUElODQlRTYlOTUlQjAlRTUlQUQlOTclRTglQjUlODQlRTQlQkElQTclRTUlODglOTclRTglQTElQTgGOwhUOglyYW5raQY%3D--6899be30fe22e9386c4bef51e03d57b62d996096" rel="nofollow">FCoin创业板支持充值的数字资产列表</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCG39DdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCNlFDtJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBjC9oYy96aC1jbi9hcnRpY2xlcy8zNjAwMDY0MTc3NzMtJUU5JTgyJTgwJUU4JUFGJUI3JUU4JUJGJTk0JUU0JUJEJUEzJUU2JUI0JUJCJUU1JThBJUE4JUU2JTlBJTgyJUU1JTgxJTlDJUU2JTg5JUE3JUU4JUExJThDJUU1JTg1JUFDJUU1JTkxJThBBjsIVDoJcmFua2kH--795b6f707b941032a27eaf2ba4ab97690a7db42a" rel="nofollow">邀请返佣活动暂停执行公告</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCG3N1NFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCNlFDtJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJOL2hjL3poLWNuL2FydGljbGVzLzM2MDAwMjY2OTkzMy1GQ29pbiVFOCVCNCVBNiVFNiU4OCVCNyVFNiVCMyVBOCVFNSU4NiU4QwY7CFQ6CXJhbmtpCA%3D%3D--3f4d54f590701a7a3ac2f6798aed58eef561a483" rel="nofollow">FCoin账户注册</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCHEd5dFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCNlFDtJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJ%2FL2hjL3poLWNuL2FydGljbGVzLzM2MDAwMzczODk5My0lRTUlODUlODUlRTYlOEYlOTAlRTUlQjglODElRTUlODglQjAlRTglQjQlQTYlRTYlOTclQjYlRTklOTclQjQlRTUlOEYlOEElRTklOTklOTAlRTklQTIlOUQGOwhUOglyYW5raQk%3D--0116c6d994045a660649c1e749449112ad9eb171" rel="nofollow">充提币到账时间及限额</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCDGtDdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCNlFDtJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJZL2hjL3poLWNuL2FydGljbGVzLzM2MDAwNjM5NzIzMy0lRTYlOTQlQjYlRTUlODUlQTUlRTUlODglODYlRTklODUlOEQtMTgwNjI4JUU2JTlDJTlGBjsIVDoJcmFua2kK--5a7c69bb4c81d8bc816120a9a0ac3ed60377832c" rel="nofollow">收入分配-180628期</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <div class="article-comments" id="article-comments">
+        <section class="comments">
+          <header class="comment-overview">
+            <h3 class="comment-heading">
+              评论
+            </h3>
+            <p class="comment-callout">0 条评论</p>
+            
+          </header>
+
+          <ul id="comments" class="comment-list">
+            
+          </ul>
+
+          
+
+          
+
+          <p class="comment-callout">文章评论已关闭。</p>
+        </section>
+      </div>
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    <a title="主页" href="/hc/zh-cn">帮助中心</a>
+
+    <div class="footer-language-selector">
+      
+        <div class="dropdown language-selector" aria-haspopup="true">
+          <a class="dropdown-toggle">
+            简体中文
+          </a>
+          <span class="dropdown-menu dropdown-menu-end" role="menu">
+            
+              <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F360006436313-Introduce-the-Trans-Fee-Mining-mechanism-to-create-a-Bitcoin-that-lives-up-to-what-Satoshi-Nakamoto-had-in-mind" dir="ltr" rel="nofollow" role="menuitem">
+                English (US)
+              </a>
+            
+          </span>
+        </div>
+      
+    </div>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+  
+  <script src="//static.zdassets.com/hc/assets/zh-cn.ed7371793d2734c96518.js"></script>
+  <script src="https://fcoin.zendesk.com/auth/v2/host.js" data-brand-id="360000411633" data-return-to="https://fcoin.zendesk.com/hc/zh-cn/articles/360006436313-%E5%BC%95%E5%85%A5-%E4%BA%A4%E6%98%93%E5%8D%B3%E6%8C%96%E7%9F%BF-%E6%9C%BA%E5%88%B6-%E5%88%9B%E9%80%A0%E4%B8%80%E4%B8%AA%E7%AC%A6%E5%90%88%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%88%9D%E5%BF%83%E7%9A%84%E6%AF%94%E7%89%B9%E5%B8%81" data-theme="hc" data-locale="zh-cn" data-auth-origin="360000411633,false,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"fcoin","environment":"production","name":"FCoin"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-cn","csrf_token":"hc:hcobject:server:t6oAbC4a87t8qGzNzVipCPHyUgG9DqAZuXCr40kzoB/5CB0hsREjfyuOv3ZYge4r3eOYTDteTCQeAtn5wJaQHQ==","shared_csrf_token":null},"settings":{"zopim_enabled":true},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKemgtY24GOgZFVDoPYXJ0aWNsZV9pZGwrCNlFDtJTADoKX21ldGF7CzoPYWNjb3VudF9pZGkD9LYiOhNoZWxwX2NlbnRlcl9pZGwrCFVnrdFTADoNYnJhbmRfaWRsKwjxV7LRUwA6DHVzZXJfaWQwOg51c2VyX3JvbGVJIg5hbm9ueW1vdXMGOwZUOwBJIgp6aC1jbgY7BlQ=--7e19893cfa4d300d60cc1938820b24b4cefa727e","url":"https://fcoin.zendesk.com/hc/tracking/events?locale=zh-cn"},"current_record_id":"360006436313","current_record_url":"/hc/zh-cn/articles/360006436313-%E5%BC%95%E5%85%A5-%E4%BA%A4%E6%98%93%E5%8D%B3%E6%8C%96%E7%9F%BF-%E6%9C%BA%E5%88%B6-%E5%88%9B%E9%80%A0%E4%B8%80%E4%B8%AA%E7%AC%A6%E5%90%88%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%88%9D%E5%BF%83%E7%9A%84%E6%AF%94%E7%89%B9%E5%B8%81","current_record_title":"引入“交易即挖矿”机制，创造一个符合中本聪初心的比特币","search_results_count":null,"current_text_direction":"ltr","current_brand_url":"https://fcoin.zendesk.com","current_host_mapping":null,"current_path":"/hc/zh-cn/articles/360006436313-%E5%BC%95%E5%85%A5-%E4%BA%A4%E6%98%93%E5%8D%B3%E6%8C%96%E7%9F%BF-%E6%9C%BA%E5%88%B6-%E5%88%9B%E9%80%A0%E4%B8%80%E4%B8%AA%E7%AC%A6%E5%90%88%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%88%9D%E5%BF%83%E7%9A%84%E6%AF%94%E7%89%B9%E5%B8%81","authentication_domain":"https://fcoin.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"2d0e11e3b56e66dc10c61fa0e18b7183cb95da75","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":true,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://fcoin.zendesk.com/hc/admin/plan?locale=zh-cn","manage_content_url":"https://fcoin.zendesk.com/hc/zh-cn","arrange_content_url":"https://fcoin.zendesk.com/hc/admin/arrange_contents?locale=zh-cn","general_settings_url":"https://fcoin.zendesk.com/hc/admin/general_settings?locale=zh-cn","user_segments_url":"https://fcoin.zendesk.com/knowledge/user_segments?brand_id=360000411633","has_community_enabled":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"billing_url":"/access/return_to?return_to=https://fcoin.zendesk.com/admin/billing/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"/access/return_to?return_to=https://fcoin.zendesk.com/agent/admin/answer_bot","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":false,"arrange_articles_url":"https://fcoin.zendesk.com/knowledge/arrange?brand_id=360000411633","article_verification_url":"https://fcoin.zendesk.com/knowledge/verification?brand_id=360000411633","has_article_verification":false,"guide_language_settings_url":"https://fcoin.zendesk.com/hc/admin/language_settings?locale=zh-cn","docs_importer_url":"https://fcoin.zendesk.com/knowledge/import_articles?brand_id=360000411633","community_settings_url":"https://fcoin.zendesk.com/knowledge/community_settings?brand_id=360000411633","gather_plan_state":"subscribed","search_settings_url":"https://fcoin.zendesk.com/knowledge/search_settings?brand_id=360000411633","has_multibrand_search_in_plan":false,"theming_api_version":1,"has_merged_stats_endpoints":false,"has_pci_credit_card_custom_field":false,"current_brand_id":360000411633,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"has_assume_csrf_protection":true,"flash_messages":[]};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-0d30706c9f12907f2d6f8afe59752ee3.js"></script>
+  
+</body>
+</html>

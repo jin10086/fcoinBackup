@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <!-- v17659 -->
+
+  <title>计划委托使用说明 &ndash; 帮助中心</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:lUfCksU9mS7Nd4/pqvK9JKGHCeU3ZMdtEVg7Uwcqsep32eR4KiWMUp6SGw8JXXLjY7SiCkDN0wg10YX9jbL1Hw==" />
+
+  <meta name="description" content="一、定义 计划委托订单：当市场最新价达到触发价时，系统根据预先设置的委托价和委托量自动下单。   二、名词说明 触发价 : 当“最新价”达到设置的“触发价”，会触发“计划委托”订单，完成委托下单 。 委托价 : “计划委托”订单被触发后，将按照委托价下单 。 数量 :..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/2275060/4bf9c76f5c0ab5f04579e7be70abcfbd077b8498.png" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="帮助中心" />
+<meta property="og:title" content="计划委托使用说明" />
+<meta property="og:description" content="一、定义
+计划委托订单：当市场最新价达到触发价时，系统根据预先设置的委托价和委托量自动下单。
+ 
+二、名词说明
+触发价 : 当“最新价”达到设置的“触发价”，会触发“计划委托”订单，完成委托下单 。
+委托价 : “计划委托”订单被触发后，将按照委托价下单 。
+数量 : 触发后的“下单数量”。
+ 
+三、下单指标
+买入时：委托价不能高于触发价的110%。
+卖出时：委托价不能低于触发价的90%。
+..." />
+<meta property="og:url" content="http://fcoin.zendesk.com/hc/zh-cn/articles/360033404174-%E8%AE%A1%E5%88%92%E5%A7%94%E6%89%98%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E" />
+<link rel="canonical" href="https://fcoin.zendesk.com/hc/zh-cn/articles/360033404174-%E8%AE%A1%E5%88%92%E5%A7%94%E6%89%98%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E" />
+<link rel="alternate" hreflang="en" href="https://fcoin.zendesk.com/hc/en-us/articles/360033404174-Instructions-of-Stop-Limit-Order" />
+<link rel="alternate" hreflang="zh" href="https://fcoin.zendesk.com/hc/zh-cn/articles/360033404174-%E8%AE%A1%E5%88%92%E5%A7%94%E6%89%98%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E" />
+
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-ebbf4a70487f9466c9be47bf4b6055f6.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-7eacdab8920220a42cfc91404f4ed182.css" />
+  <link rel="stylesheet" type="text/css" href="//p14.zdassets.com/hc/theming_assets/2275060/360000411633/style.css?digest=360053656834" />
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/2275060/0838e96fa9ce2d3bc0ccf47d672646327875c5cb.png" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    
+    
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+
+  <script type="text/javascript" src="//p14.zdassets.com/hc/theming_assets/2275060/360000411633/script.js?digest=360053656834"></script>
+</head>
+<body class="">
+  
+  
+
+  <header class="header">
+  <div class="logo">
+    <!-- <a title="主页" href="/hc/zh-cn"> -->
+    <a href ="https://www.fcoin.com"><img src="//theme.zdassets.com/theme_assets/2275060/4bf9c76f5c0ab5f04579e7be70abcfbd077b8498.png" alt="徽标"></a>
+    <!-- </a> -->
+  </div>
+  <div class="nav-wrapper">
+    <span class="icon-menu"></span>
+    <nav class="user-nav" id="user-nav">
+      
+      <a class="submit-a-request" href="/hc/zh-cn/requests/new">提交请求</a>
+    </nav>
+	  <!-- user login -->
+    <!--   <a class="login" data-auth-action="signin" role="button" rel="nofollow" title="打开对话框" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360033404174-%25E8%25AE%25A1%25E5%2588%2592%25E5%25A7%2594%25E6%2589%2598%25E4%25BD%25BF%25E7%2594%25A8%25E8%25AF%25B4%25E6%2598%258E&amp;locale=zh-cn">登录</a>
+ -->
+  </div>
+</header>
+
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="帮助中心">
+      
+        <a href="/hc/zh-cn">帮助中心</a>
+      
+    </li>
+  
+    <li title="常见问题">
+      
+        <a href="/hc/zh-cn/categories/360000255753-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98">常见问题</a>
+      
+    </li>
+  
+    <li title="交易指南">
+      
+        <a href="/hc/zh-cn/sections/360000590613-%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97">交易指南</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/zh-cn/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360000255753" />
+<input type="search" name="query" id="query" placeholder="搜索" aria-label="搜索" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">此组别内的文章</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360033404174-%E8%AE%A1%E5%88%92%E5%A7%94%E6%89%98%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E" class="sidenav-item current-article">计划委托使用说明</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360020508213-FCoin%E4%B8%BB%E6%9D%BF%E4%BA%A4%E6%98%93%E5%AF%B9%E7%9A%84%E4%BB%B7%E6%A0%BC%E7%B2%BE%E5%BA%A6%E5%92%8C%E6%95%B0%E9%87%8F%E7%B2%BE%E5%BA%A6" class="sidenav-item ">FCoin主板交易对的价格精度和数量精度</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360003715514-%E4%BA%A4%E6%98%93%E6%89%8B%E7%BB%AD%E8%B4%B9%E5%8F%8A%E8%AE%A2%E5%8D%95%E8%A7%84%E5%88%99%E8%AF%B4%E6%98%8E" class="sidenav-item ">交易手续费及订单规则说明</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360003715034-%E5%A6%82%E4%BD%95%E4%BA%A4%E6%98%93" class="sidenav-item ">如何交易</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360003739133-%E5%B9%B3%E5%8F%B0%E4%BA%A4%E6%98%93%E8%A7%84%E5%88%99%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84-" class="sidenav-item ">平台交易规则是怎样的？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360003739073-%E5%B8%81%E5%B8%81%E4%BA%A4%E6%98%93%E5%A6%82%E4%BD%95%E5%AE%9A%E4%BB%B7-" class="sidenav-item ">币币交易如何定价？</a>
+            </li>
+          
+        </ul>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="计划委托使用说明" class="article-title">
+          计划委托使用说明
+          
+        </h1>
+
+        <div class="article-author">
+          <div class="avatar article-avatar">
+            
+              <span class="icon-agent"></span>
+            
+            <img src="https://fcoin.zendesk.com/system/photos/3601/6913/6473/fcoin-头像.png" alt="Avatar" class="user-avatar"/>
+          </div>
+          <div class="article-meta">
+            
+              FCoin
+            
+
+            <ul class="meta-group">
+              
+                <li class="meta-data"><time datetime="2019-08-02T09:02:48Z" title="2019-08-02T09:02:48Z" data-datetime="relative">2019年08月02日 09:02</time></li>
+                <li class="meta-data">更新于</li>
+              
+            </ul>
+          </div>
+        </div>
+        <a class="article-subscribe" title="打开登录对话框" rel="nofollow" role="button" data-auth-action="signin" aria-selected="false" href="/hc/zh-cn/articles/360033404174-%E8%AE%A1%E5%88%92%E5%A7%94%E6%89%98%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/subscription.html">关注</a>
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><h3 class="p1"><strong><span class="s1">一、定义</span></strong></h3>
+<p class="p1"><span class="s1">计划委托订单：当市场最新价达到触发价时，系统根据预先设置的委托价和委托量自动下单。</span></p>
+<p class="p2"> </p>
+<h3 class="p1"><strong><span class="s1">二、名词说明</span></strong></h3>
+<p class="p1"><span class="s1">触发价</span><span class="s2"> : </span><span class="s1">当</span><span class="s2">“</span><span class="s1">最新价</span><span class="s2">”</span><span class="s1">达到设置的</span><span class="s2">“</span><span class="s1">触发价</span><span class="s2">”</span><span class="s1">，会触发</span><span class="s2">“</span><span class="s1">计划委托</span><span class="s2">”</span><span class="s1">订单，完成委托下单</span> <span class="s1">。</span></p>
+<p class="p1"><span class="s1">委托价</span><span class="s2"> : “</span><span class="s1">计划委托</span><span class="s2">”</span><span class="s1">订单被触发后，将按照委托价下单</span> <span class="s1">。</span></p>
+<p class="p1"><span class="s1">数量</span><span class="s2"> : </span><span class="s1">触发后的</span><span class="s2">“</span><span class="s1">下单数量</span><span class="s2">”</span><span class="s1">。</span></p>
+<p class="p2"> </p>
+<h3 class="p1"><strong><span class="s1">三、下单指标</span></strong></h3>
+<p class="p1"><span class="s1">买入时：委托价不能高于触发价的</span><span class="s2">110%</span><span class="s1">。</span></p>
+<p class="p1"><span class="s1">卖出时：委托价不能低于触发价的</span><span class="s2">90%</span><span class="s1">。</span></p>
+<p class="p2"> </p>
+<h3 class="p1"><strong><span class="s1">四、图文简介</span></strong></h3>
+<p class="p1"><span class="s1">以</span><span class="s2">FT/USDT</span><span class="s1">为例，</span><span class="s2">FT</span><span class="s1">当前价为</span><span class="s2">0.1803 USDT</span><span class="s1">，您通过指标判断</span><span class="s2">FT</span><span class="s1">价格会上涨，且</span><span class="s2">0.2300 USDT</span><span class="s1">为上涨阻力位，如果价格突破阻力位，可能继续上涨。则可在价格突破阻力位后以</span><span class="s2">0.2340 USDT</span><span class="s1">的价格追加买入</span><span class="s2">20,000FT</span><span class="s1">的委托单。</span></p>
+<p class="p2"> </p>
+<p class="p1"><span class="s1">下单类型：计划委托</span></p>
+<p class="p1"><span class="s1">类型：限价买入</span></p>
+<p class="p3"><span class="s3">触发价：</span><span class="s1">0.2300 USDT</span></p>
+<p class="p1"><span class="s1">委托价：</span><span class="s2">0.2340 USDT</span><span class="s1">（最终成交价格以最新市场价为准）</span></p>
+<p class="p3"><span class="s3">数量：</span><span class="s1">20,000 FT </span></p>
+<p class="p2"> </p>
+<p class="p2"><img src="/hc/article_attachments/360042871374/Artboard.png" alt="Artboard.png" width="841" height="238"></p>
+<p class="p2"> </p>
+<p class="p1"><span class="s1">在您输入以上数据，点击“买入”，再次确认订单后点击“确认”，完成下单。</span></p>
+<p class="p1"> </p>
+<p class="p2"><img src="/hc/article_attachments/360042871794/Artboard_2.png" alt="Artboard_2.png"></p>
+<p class="p2"> </p>
+<p class="p1"><span class="s1">下单完成后，可在</span><span class="s2">“</span><span class="s1">计划委托</span><span class="s2">”</span><span class="s1">中查看计划委托单，未触发的计划委托订单支持撤销。</span></p>
+<p class="p1"><span class="s1">当最新价达到触发价时，计划委托订单类型将变为</span><span class="s2">“</span><span class="s1">已触发</span><span class="s2">”</span><span class="s1">，同时当前委托中将按照计划委托生成一笔新的订单。在账户余额充足的情况下，计划委托订单会触发下单但不保证一定成交，最终成交价格以市场价格为准。若市场价达到触发价时账户余额不足，将自动撤销计划委托单。</span></p>
+<p class="p1"> </p>
+<p><strong>注意：</strong></p>
+<ul>
+<li>
+<p>只有处于交易状态中的交易对才可以下达计划委托；</p>
+</li>
+<li>
+<p>下单数量必须满足对应交易对的计划委托下单数量限制；</p>
+</li>
+<li>
+<p>计划委托单触发之前，不会冻结用户的交易账户的可用资产，只有在计划委托单触发并按照提前设置好的价格和数量下单时，才会冻结交易账户的可用资产；</p>
+</li>
+<li>
+<p>计划委托不一定成功触发，可能会因为价格限制、订单数量限制、交易账户的可用资产不足、交易对处于非交易状态、网络问题、系统问题等而下单失败；</p>
+</li>
+<li>
+<p>计划委托触发时，会按照提前设置好的委托价进行下单。但是如果下单时的委托价格突破了当时的限价（买入价高于最高买价，或者卖出价低于最低卖价），则会下单失败；</p>
+</li>
+<li>
+<p>计划委托触发后下单的订单，是按照用户提前设置的委托价进行下单的。该订单无法保证成交，完全取决于当时的市场行情，<span class="s1">最终成交价格以市场价格为准。</span></p>
+</li>
+</ul></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%E8%AE%A1%E5%88%92%E5%A7%94%E6%89%98%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E&u=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360033404174-%25E8%25AE%25A1%25E5%2588%2592%25E5%25A7%2594%25E6%2589%2598%25E4%25BD%25BF%25E7%2594%25A8%25E8%25AF%25B4%25E6%2598%258E" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=zh&text=%E8%AE%A1%E5%88%92%E5%A7%94%E6%89%98%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E&url=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360033404174-%25E8%25AE%25A1%25E5%2588%2592%25E5%25A7%2594%25E6%2589%2598%25E4%25BD%25BF%25E7%2594%25A8%25E8%25AF%25B4%25E6%2598%258E" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=FCoin&title=%E8%AE%A1%E5%88%92%E5%A7%94%E6%89%98%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E&url=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360033404174-%25E8%25AE%25A1%25E5%2588%2592%25E5%25A7%2594%25E6%2589%2598%25E4%25BD%25BF%25E7%2594%25A8%25E8%25AF%25B4%25E6%2598%258E" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">这篇文章有帮助吗？</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="是" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360033404174-%25E8%25AE%25A1%25E5%2588%2592%25E5%25A7%2594%25E6%2589%2598%25E4%25BD%25BF%25E7%2594%25A8%25E8%25AF%25B4%25E6%2598%258E"></a>
+              <a class="button article-vote article-vote-down" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="否" href="/hc/zh-cn/signin?return_to=https%3A%2F%2Ffcoin.zendesk.com%2Fhc%2Fzh-cn%2Farticles%2F360033404174-%25E8%25AE%25A1%25E5%2588%2592%25E5%25A7%2594%25E6%2589%2598%25E4%25BD%25BF%25E7%2594%25A8%25E8%25AF%25B4%25E6%2598%258E"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label">0 人中有 0 人觉得有帮助</span>
+            </small>
+          </div>
+        
+
+        <div class="article-more-questions">
+          还有其它问题？<a href="/hc/zh-cn/requests/new">提交请求</a>
+        </div>
+        <div class="article-return-to-top">
+          <a href="#article-container">返回页首<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">相关文章</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBXOsdNTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCA7FqdNTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBoC9oYy96aC1jbi9hcnRpY2xlcy8zNjAwMzM5MzA3NzMtJUU4JUFFJUExJUU1JTg4JTkyJUU1JUE3JTk0JUU2JTg5JTk4LSVFNiVBRCVBMiVFNyU5QiU4OCVFNiVBRCVBMiVFNiU4RCU5Ri0lRTUlOEElOUYlRTglODMlQkQlRTQlQjglOEElRTclQkElQkYlRTUlODUlQUMlRTUlOTElOEEGOwhUOglyYW5raQY%3D--9e32a58f72378a93e91a3b94c8925388afd516e1" rel="nofollow">计划委托（止盈止损）功能上线公告</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCDX%2B5NJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCA7FqdNTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBrC9oYy96aC1jbi9hcnRpY2xlcy8zNjAwMjA1MDgyMTMtRkNvaW4lRTQlQjglQkIlRTYlOUQlQkYlRTQlQkElQTQlRTYlOTglOTMlRTUlQUYlQjklRTclOUElODQlRTQlQkIlQjclRTYlQTAlQkMlRTclQjIlQkUlRTUlQkElQTYlRTUlOTIlOEMlRTYlOTUlQjAlRTklODclOEYlRTclQjIlQkUlRTUlQkElQTYGOwhUOglyYW5raQc%3D--4f215b88e3ab17c92f95c9d80fac7c66cbfc2287" rel="nofollow">FCoin主板交易对的价格精度和数量精度</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBG0sdNTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCA7FqdNTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJYL2hjL3poLWNuL2FydGljbGVzLzM2MDAzMzkyNDExMy1GQ29pbiVFNSVCNyVBNSVFNCVCRCU5QyVFNSU5MSVBOCVFNiU4QSVBNS03LTI5LTgtMi0GOwhUOglyYW5raQg%3D--2237df8ea095156147cade0f54602876554f583e" rel="nofollow">FCoin工作周报（7.29-8.2）</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCIbZqdNTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCA7FqdNTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJrL2hjL3poLWNuL2FydGljbGVzLzM2MDAzMzQwOTQxNC1GT25lJUU2JTk2JUIwJUU1JUI4JTgxJUU0JUI4JThBJUU3JUJBJUJGJUU1JTg1JUFDJUU1JTkxJThBLTIwMTktMDgtMDItBjsIVDoJcmFua2kJ--c6ac388b7acc018323231517256fe37fc9ed9d56" rel="nofollow">FOne新币上线公告 【2019-08-02】</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCIYrqNNTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCA7FqdNTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBvC9oYy96aC1jbi9hcnRpY2xlcy8zNjAwMzMyOTkzMzQtJUU1JTg1JUIzJUU0JUJBJThFJUU1JUIwJTg2RkNvaW4tRnVuZCVFNSVCOSVCNCVFNSVCQSVBNiVFNSU4OCU4NiVFNyVCQSVBMiVFNyU5NCVBOCVFNiU5RCVBNSVFNSU5QiU5RSVFOCVCNCVBRCVFOSU5NCU4MCVFNiVBRiU4MUZUJUU3JTlBJTg0JUU1JTg1JUFDJUU1JTkxJThBBjsIVDoJcmFua2kK--015783457b563a463b6fef76d4bdc14bfa093d5f" rel="nofollow">关于将FCoin Fund年度分红用来回购销毁FT的公告</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <div class="article-comments" id="article-comments">
+        <section class="comments">
+          <header class="comment-overview">
+            <h3 class="comment-heading">
+              评论
+            </h3>
+            <p class="comment-callout">0 条评论</p>
+            
+          </header>
+
+          <ul id="comments" class="comment-list">
+            
+          </ul>
+
+          
+
+          
+
+          <p class="comment-callout">文章评论已关闭。</p>
+        </section>
+      </div>
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    <a title="主页" href="/hc/zh-cn">帮助中心</a>
+
+    <div class="footer-language-selector">
+      
+        <div class="dropdown language-selector" aria-haspopup="true">
+          <a class="dropdown-toggle">
+            简体中文
+          </a>
+          <span class="dropdown-menu dropdown-menu-end" role="menu">
+            
+              <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F360033404174-Instructions-of-Stop-Limit-Order" dir="ltr" rel="nofollow" role="menuitem">
+                English (US)
+              </a>
+            
+          </span>
+        </div>
+      
+    </div>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+  
+  <script src="//static.zdassets.com/hc/assets/zh-cn.ed7371793d2734c96518.js"></script>
+  <script src="https://fcoin.zendesk.com/auth/v2/host.js" data-brand-id="360000411633" data-return-to="https://fcoin.zendesk.com/hc/zh-cn/articles/360033404174-%E8%AE%A1%E5%88%92%E5%A7%94%E6%89%98%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E" data-theme="hc" data-locale="zh-cn" data-auth-origin="360000411633,false,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"fcoin","environment":"production","name":"FCoin"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-cn","csrf_token":"hc:hcobject:server:LTss6ej0kdPcfEKI4gdA63lgjY3RBiwWp+kN2rkApjHPpQoDB+yEr4+Z1m5BqI8su1MmYqavOHODYLN0M5jixA==","shared_csrf_token":null},"settings":{"zopim_enabled":true},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKemgtY24GOgZFVDoPYXJ0aWNsZV9pZGwrCA7FqdNTADoKX21ldGF7CzoPYWNjb3VudF9pZGkD9LYiOhNoZWxwX2NlbnRlcl9pZGwrCFVnrdFTADoNYnJhbmRfaWRsKwjxV7LRUwA6DHVzZXJfaWQwOg51c2VyX3JvbGVJIg5hbm9ueW1vdXMGOwZUOwBJIgp6aC1jbgY7BlQ=--6857f4409bb1f69d888ad1881f98dc59719d195b","url":"https://fcoin.zendesk.com/hc/tracking/events?locale=zh-cn"},"current_record_id":"360033404174","current_record_url":"/hc/zh-cn/articles/360033404174-%E8%AE%A1%E5%88%92%E5%A7%94%E6%89%98%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E","current_record_title":"计划委托使用说明","search_results_count":null,"current_text_direction":"ltr","current_brand_url":"https://fcoin.zendesk.com","current_host_mapping":null,"current_path":"/hc/zh-cn/articles/360033404174-%E8%AE%A1%E5%88%92%E5%A7%94%E6%89%98%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E","authentication_domain":"https://fcoin.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"2d0e11e3b56e66dc10c61fa0e18b7183cb95da75","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"mobile_device":true,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":true,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://fcoin.zendesk.com/hc/admin/plan?locale=zh-cn","manage_content_url":"https://fcoin.zendesk.com/hc/zh-cn","arrange_content_url":"https://fcoin.zendesk.com/hc/admin/arrange_contents?locale=zh-cn","general_settings_url":"https://fcoin.zendesk.com/hc/admin/general_settings?locale=zh-cn","user_segments_url":"https://fcoin.zendesk.com/knowledge/user_segments?brand_id=360000411633","has_community_enabled":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"billing_url":"/access/return_to?return_to=https://fcoin.zendesk.com/admin/billing/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"/access/return_to?return_to=https://fcoin.zendesk.com/agent/admin/answer_bot","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":false,"arrange_articles_url":"https://fcoin.zendesk.com/knowledge/arrange?brand_id=360000411633","article_verification_url":"https://fcoin.zendesk.com/knowledge/verification?brand_id=360000411633","has_article_verification":false,"guide_language_settings_url":"https://fcoin.zendesk.com/hc/admin/language_settings?locale=zh-cn","docs_importer_url":"https://fcoin.zendesk.com/knowledge/import_articles?brand_id=360000411633","community_settings_url":"https://fcoin.zendesk.com/knowledge/community_settings?brand_id=360000411633","gather_plan_state":"subscribed","search_settings_url":"https://fcoin.zendesk.com/knowledge/search_settings?brand_id=360000411633","has_multibrand_search_in_plan":false,"theming_api_version":1,"has_merged_stats_endpoints":false,"has_pci_credit_card_custom_field":false,"current_brand_id":360000411633,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"has_assume_csrf_protection":true,"flash_messages":[]};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-0d30706c9f12907f2d6f8afe59752ee3.js"></script>
+  
+</body>
+</html>
